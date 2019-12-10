@@ -405,8 +405,6 @@ http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 http://cdn.live.shemaroome.com/karanimata/smil:karanimataadp.smil/chunklist_b1128000_sleng.m3u8
 #EXTINF:-1,HUM MASALA
 http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
-#EXTINF:-1,Living Foodz
-https://z5ams.akamaized.net/livingfoodz/index.m3u8?hdnts=st=1575987938~exp=1575990938~acl=/*~hmac=68aae2f040f10c29671224ad1cd34accdc22eb141562307656a6d5abfc57ca18
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Star Movies HD (Opt-1)
@@ -419,7 +417,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 #EXTINF:-1,MBC HD
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
-#EXTINF:-1,MNX HD
+#EXTINF:-1,MNX
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
