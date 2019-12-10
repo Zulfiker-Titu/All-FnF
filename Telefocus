@@ -293,8 +293,6 @@ https://2.makalemun.com/dd3_200.m3u8
 https://2.makalemun.com/dd3_201.m3u8
 #EXTINF:-1,Bein Sports 3
 https://2.makalemun.com/dd3_202.m3u8
-#EXTINF:-1,Sport 1
-http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
 #EXTINF:-1,Gol TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTSH Sport
