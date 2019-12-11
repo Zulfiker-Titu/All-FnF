@@ -243,6 +243,8 @@ http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_1916
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,Kids TV
@@ -295,6 +297,8 @@ https://2.makalemun.com/dd3_201.m3u8
 https://2.makalemun.com/dd3_202.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,ESPN
+http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,Gol TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTSH Sport
@@ -717,6 +721,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1,DJING HITS
 https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1,PUBLIC MUSIC
