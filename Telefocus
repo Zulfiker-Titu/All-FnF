@@ -281,7 +281,7 @@ http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3
 http://103.121.36.238:8081/live/select1/chunks.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
-#EXTINF:-1,Arekay Sports
+#EXTINF:-1,Dubai Sports
 http://103.121.36.238:8081/live/bein1/chunks.m3u8
 #EXTINF:-1,Sky Net Sports
 http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
