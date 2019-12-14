@@ -356,7 +356,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1,BBC World News
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/45592
 #EXTINF:-1,cna
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
