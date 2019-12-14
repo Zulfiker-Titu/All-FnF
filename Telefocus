@@ -36,16 +36,16 @@ http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
 #EXTINF:-1,SONIC
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+https://triangle.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Ekushey TV
 http://103.121.36.238:8081/live/ekushey/chunks.m3u8
-#EXTINF:-1,Gazi TV
+#EXTINF:-1,Gazi TV (Opt-1)
 http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1,Gazi TV (Opt-2)
+https://triangle.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,BD IP 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1576169410/ei/YhvyXeSfGoGe8QPh_7HgCQ/ip/103.118.76.169/id/256XTt0pVuA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/go/1/keepalive/yes/fexp/23842630/beids/9466588/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhANgVPFjl1JNDrRk4nERrLfTeLDVaw-wXMBemBnz9HC1AAiBTLtLD7CGP7WMvh5x6RhbFiOARr7hrG37UTsJq58Jyeg%3D%3D/file/index.m3u8
-#EXTINF:-1,BD IP 2
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -80,7 +80,7 @@ http://103.81.104.222/live/nat-geo/index.m3u8
 #EXTINF:-1,Akaash Aath
 http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+https://triangle.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1,Sony Aath
 http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
 #EXTINF:-1,Star Jalsha
@@ -356,7 +356,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1,BBC World News
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN
-http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/45592
+https://triangle.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1,cna
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
