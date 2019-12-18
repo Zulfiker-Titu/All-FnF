@@ -416,12 +416,10 @@ http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Star Movies HD (Opt-1)
-http://jiotvppl.indmovies.in/jionew/Star_Movies_HD_1200.m3u8==
-#EXTINF:-1,Star Movies HD (Opt-2)
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Movies HD (Opt-3)
+#EXTINF:-1,Star Movies HD (Opt-2)
 http://103.121.36.238:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1,Star Movies HD (Opt-4)
+#EXTINF:-1,Star Movies HD (Opt-3)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
