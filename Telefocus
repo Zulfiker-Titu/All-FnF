@@ -359,7 +359,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN
 https://triangle.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1,cna
+#EXTINF:-1,CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
@@ -416,10 +416,12 @@ http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Star Movies HD (Opt-1)
-https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
+http://jiotvppl.indmovies.in/jionew/Star_Movies_HD_1200.m3u8
 #EXTINF:-1,Star Movies HD (Opt-2)
-http://103.121.36.238:8081/live/starmovies/chunks.m3u8
+https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies HD (Opt-3)
+http://103.121.36.238:8081/live/starmovies/chunks.m3u8
+#EXTINF:-1,Star Movies HD (Opt-4)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
@@ -605,16 +607,6 @@ http://150.242.21.2/gosree.m3u8
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,MEDIANET ADIMALI
 http://150.242.21.2/medianet.m3u8
-#EXTINF:-1,PEPPERS TV
-http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,RAJYA SABHA TV
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1,SAFARI
-https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CANADA ONE
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1,KAUMUDY TV
-http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Joy TV
 http://joytv.livebox.co.in/joytvhls/live.m3u8
 #EXTINF:-1,8tv
@@ -651,8 +643,6 @@ http://streamidvo.multitvsolution.in/DDKisan-c/playlist.m3u8
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,5 PLUS
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-#EXTINF:-1,FS1 SALZBURG
-http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1,TV7 COLMAR
