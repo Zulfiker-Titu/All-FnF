@@ -357,8 +357,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN ((Opt-1)
 https://triangle.iptv.digijadoo.net/live/cnn/chunks.m3u8
+#EXTINF:-1,CNN ((Opt-2)
+http://jiotvppl.indmovies.in/jionew/CNN_1200.m3u8
 #EXTINF:-1,CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
@@ -537,16 +539,22 @@ http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 http://jiotvppl.indmovies.in/jionew/SONY_MAX_HD_1200.m3u8
 #EXTINF:-1,SONY MAX
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony MAX2
+#EXTINF:-1,Sony MAX2 (Opt-1)
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony MAX2 (Opt-2)
+http://jiotvppl.indmovies.in/jionew/SONY_MAX2_1200.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX (Opt-2)
 http://27.147.156.14:1935/Sony-Mix/Sony-Mix.stream/chunklist_w1095948083.m3u8
 #EXTINF:-1,Sony MIX (Opt-3)
 http://103.68.116.50/live/feed1009/index.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1,Sony MIX (Opt-4)
+http://jiotvppl.indmovies.in/jionew/SONY_MIX_1200.m3u8
+#EXTINF:-1,Sony SAB (Opt-1)
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony SAB (Opt-2)
+http://jiotvppl.indmovies.in/jionew/SONY_SAB_1200.m3u8
 #EXTINF:-1,Sony Pix (Opt-1)
 http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
@@ -761,8 +769,10 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,MTV/vh1
 http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
-#EXTINF:-1,MTV (India)
+#EXTINF:-1,MTV (India) (Opt-1)
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
+#EXTINF:-1,MTV (India) (Opt-2)
+http://jiotvppl.indmovies.in/jionew/MTV_1200.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,m2o
