@@ -597,26 +597,14 @@ http://streamidvo.multitvsolution.in/MultiplexCinema-e/playlist.m3u8
 http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1,5 AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1,EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1,IBC 24
-https://livetv.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=st=1573408800~exp=1573412400~acl=/*~hmac=97bbdb7cff541d142d1f43d9faa93814eb0ecd134dd3243338a6b5100d51cb34
-#EXTINF:-1,ISAI ARUVI
-https://playback.sonyliv.com/yupptvtest.m3u8?window=3000&channel=812&__nn__=5606168722001&hdnea=1573414200_082ec8dd0262f74595c1a3510a1092d3
 #EXTINF:-1,KHYBER MIDDLE EAST
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1,SHRRANG TV
 http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
-#EXTINF:-1,JAYA MAX
-https://playback.sonyliv.com/yupptvtest.m3u8?window=3000&channel=165&__nn__=5606168722001&hdnea=1573414200_3f3ba2b8e523a99fc3451ef30adab007
 #EXTINF:-1,AKARAM MIX
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
-#EXTINF:-1,BOSS TV
-http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
 #EXTINF:-1,BOOGLE BOLLYWOOD
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1,DESI CHANNEL
@@ -629,14 +617,8 @@ http://streamidvo.multitvsolution.in/Mahuaplus-c/playlist.m3u8
 http://streamidvo.multitvsolution.in/ImayamTV-b/playlist.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,GOSREE VISION
-http://150.242.21.2/gosree.m3u8
-#EXTINF:-1,LOK SABHA TV
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,MEDIANET ADIMALI
 http://150.242.21.2/medianet.m3u8
-#EXTINF:-1,Joy TV
-http://joytv.livebox.co.in/joytvhls/live.m3u8
 #EXTINF:-1,8tv
 http://live-8tv.cdnvideo.ru/8tv/8tv.sdp/playlist.m3u8
 #EXTINF:-1,Sahel TV
@@ -665,6 +647,8 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://cdncities.com/8012/8012/playlist.m3u8
 #EXTINF:-1,ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1,LOK SABHA TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,DD Kisan
 http://streamidvo.multitvsolution.in/DDKisan-c/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
