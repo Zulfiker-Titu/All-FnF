@@ -527,10 +527,14 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3u8
 #EXTINF:-1,Fox Action Movies/Sony TV
 http://103.121.36.238:8081/live/sony-40/chunks.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1,Sony TV (Opt-1)
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1,Sony TV (Opt-2)
+http://jiotvppl.indmovies.in/jionew/SONY_HD_1200.m3u8
+#EXTINF:-1,SONY MAX HD (Opt-1)
 http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
+#EXTINF:-1,SONY MAX HD (Opt-2)
+http://jiotvppl.indmovies.in/jionew/SONY_MAX_HD_1200.m3u8
 #EXTINF:-1,SONY MAX
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MAX2
@@ -547,6 +551,8 @@ http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
 http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
 http://103.81.104.222/live/sony-pix/index.m3u8
+#EXTINF:-1,Sony Pix (Opt-3)
+http://jiotvppl.indmovies.in/jionew/SONY_PIX_HD_1200.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
 https://triangle.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
