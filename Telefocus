@@ -572,6 +572,8 @@ https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors (Opt-2)
 https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors (Opt-3)
+http://216.144.250.174/Colors_TV_HD_02/index.m3u8
+#EXTINF:-1,Colors (Opt-4)
 http://jiotvppl.indmovies.in/jionew/COLORS_HD_1200.m3u8
 #EXTINF:-1,Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
