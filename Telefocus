@@ -255,9 +255,13 @@ http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,Nick 1
+#EXTINF:-1,Nick (Opt-1)
 http://103.121.36.238:8081/live/nike-50/chunks.m3u8
-#EXTINF:-1,Nick 2
+#EXTINF:-1,Nick (Opt-2)
+https://triangle.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1,Nickelodeon HD
+https://akamai.anytv.live/NickelodeonHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
@@ -465,6 +469,8 @@ http://103.81.104.222/live/cinemaxx/index.m3u8
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MNX
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
+#EXTINF:-1,MN+ HD
+https://akamai.anytv.live/MNPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AXN (Opt-1)
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 #EXTINF:-1,AXN (Opt-2)
@@ -475,8 +481,12 @@ http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,24/7 SCI-FI MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1,STAR WORLD PREMIER HD
+https://akamai.anytv.live/StarWorldPremierHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star World (Opt-1)
+https://akamai.anytv.live/StarWorldHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star World (Opt-2)
+https://triangle.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1,Star World (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,& flix (Opt-1)
@@ -503,6 +513,8 @@ http://jiotvppl.indmovies.in/jionew/ZEE_CINEMA_HD_1200.m3u8
 http://103.118.76.229:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
 #EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1,|IN| B4U+
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Aabzy Dhakad
@@ -582,8 +594,10 @@ http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3
 #EXTINF:-1,Fox Action Movies/Sony TV
 http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
-http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+https://akamai.anytv.live/SetHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV (Opt-2)
+http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony TV (Opt-3)
 http://jiotvppl.indmovies.in/jionew/SONY_HD_1200.m3u8
 #EXTINF:-1,SONY MAX HD (Opt-1)
 http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
@@ -608,8 +622,10 @@ http://jiotvppl.indmovies.in/jionew/SONY_SAB_1200.m3u8
 #EXTINF:-1,Sony Pix (Opt-1)
 http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
-http://103.81.104.222/live/sony-pix/index.m3u8
+https://akamai.anytv.live/SonyPicsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix (Opt-3)
+http://103.81.104.222/live/sony-pix/index.m3u8
+#EXTINF:-1,Sony Pix (Opt-4)
 http://jiotvppl.indmovies.in/jionew/SONY_PIX_HD_1200.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
 https://triangle.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
