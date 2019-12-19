@@ -313,6 +313,10 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:-1,Albania Sport
 https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
+#EXTINF:-1,true premier football 
+http://119.59.116.83:8081/4k/t1/playlist.m3u8
+#EXTINF:-1,rm tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
@@ -355,8 +359,14 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,Willow
-http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/4403
+#EXTINF:-1,Falcon Eye 1
+http://falconiptv.hopto.org:1935/f1/_definst_/f1/chunklist.m3u8
+#EXTINF:-1,Falcon Eye 2
+http://falconiptv.hopto.org:1935/f2/_definst_/f2/chunklist.m3u8
+#EXTINF:-1,Falcon Eye 3
+http://falconiptv.hopto.org:1935/f3/_definst_/f3/chunklist.m3u8
+#EXTINF:-1,Falcon Eye 4
+http://falconiptv.hopto.org:1935/f4/_definst_/f4/chunklist.m3u8
 #EXTINF:-1,ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1,The Weather Channel
