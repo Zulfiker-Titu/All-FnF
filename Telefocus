@@ -249,8 +249,10 @@ http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,ANIMAX
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,ANYPLUS
+#EXTINF:-1,AnyPlus (Opt-1l
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,AniPlus (Opt-2)
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,CN HD+
 http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 #EXTINF:-1,CARTOON NETWORK 1
@@ -323,28 +325,18 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
 #EXTINF:-1,Ten Sports
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Bein Sports 1
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
-#EXTINF:-1,Fox Sports 3
-http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
 #EXTINF:-1,Flight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1,Sports1
-http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
-#EXTINF:-1,Dubai Racing ARB
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,Alkass Four HD
 https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
-#EXTINF:-1,Albania Sport
-https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 #EXTINF:-1,true premier football 
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1,rm tv
@@ -381,14 +373,6 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,Falcon Eye 1
-http://falconiptv.hopto.org:1935/f1/_definst_/f1/chunklist.m3u8
-#EXTINF:-1,Falcon Eye 2
-http://falconiptv.hopto.org:1935/f2/_definst_/f2/chunklist.m3u8
-#EXTINF:-1,Falcon Eye 3
-http://falconiptv.hopto.org:1935/f3/_definst_/f3/chunklist.m3u8
-#EXTINF:-1,Falcon Eye 4
-http://falconiptv.hopto.org:1935/f4/_definst_/f4/chunklist.m3u8
 #EXTINF:-1,The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
@@ -451,10 +435,6 @@ http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1,TBN Asia
-http://45.126.83.51/qwr9ew/s/s39/index2.m3u8
-#EXTINF:-1,Ganga Aarti
-http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 #EXTINF:-1,Iskcon Girgoav
 https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
 #EXTINF:-1,HUM MASALA
@@ -529,10 +509,10 @@ https://akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema (Opt-3)
 http://103.118.76.229:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
-#EXTINF:-1,B4U Movies
+#EXTINF:-1,B4U Movies (Opt-1l
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1,B4U+
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1,B4U Movies (Opt-2)
+http://27.147.156.14:1935/B4U-Movies/B4U-Movies.stream/playlist.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,BOLLYWOOD CLASSIC
@@ -789,8 +769,6 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,MTV mix
-http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1,MTV Beats
 http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/playlist.m3u8
 #EXTINF:-1,MUSIC CHOICE
