@@ -335,8 +335,10 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1,Ten Sports
+#EXTINF:-1,Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
+#EXTINF:-1,Ten/Super Sports
+http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Bein Sports 1
 https://2.makalemun.com/dd3_200.m3u8
 #EXTINF:-1,ESPN
@@ -353,8 +355,6 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
 http://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:-1,Alkass Five HD
 http://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
-#EXTINF:-1,true sports HD
-https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1,true premier football 
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1,rm tv
@@ -457,6 +457,8 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Iskcon Girgoav
 https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
+#EXTINF:-1,Ganga Aarti
+http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 #EXTINF:-1,HUM MASALA
 http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 #EXTINF:-1,FOOD FOOD
