@@ -595,6 +595,8 @@ http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
 https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
+#EXTINF:-1,Colors HD (Opt-3)
+https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,HUM SITARAY
