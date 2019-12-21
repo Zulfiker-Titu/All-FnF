@@ -317,6 +317,8 @@ http://103.121.36.238:8081/live/bein1/chunks.m3u8
 http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
+#EXTINF:-1,Sky Sports Football
+http://103.121.36.238:8081/live/bein1/playlist.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
