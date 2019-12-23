@@ -297,16 +297,26 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Live Football
 http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
-#EXTINF:-1,Sony Ten 1
+#EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
-#EXTINF:-1,Sony Ten 2
+#EXTINF:-1,Sony Ten 1 (Opt-02)
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+#EXTINF:-1,Sony Ten 2 (Opt-01)
 http://103.121.36.238:8081/live/ten2hd/playlist.m3u8
-#EXTINF:-1,Sony Ten 3
+#EXTINF:-1,Sony Ten 2 (Opt-02)
+http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
+#EXTINF:-1,Sony Ten 3 (Opt-01)
 http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
-#EXTINF:-1,Sony ESPN
+#EXTINF:-1,Sony Ten 3 (Opt-02)
+http://27.147.156.14:1935/CI-HD/CI-HD.stream/playlist.m3u8
+#EXTINF:-1,Sony ESPN (Opt-01)
 http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
-#EXTINF:-1,Sony SIX
+#EXTINF:-1,Sony ESPN (Opt-02)
+http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1,Sony SIX (Opt-01)
 http://103.121.36.238:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1,Sony SIX (Opt-01)
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1,Star Sports 1
 http://103.121.36.238:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 2
@@ -339,8 +349,22 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_64
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Ten/Super Sports
 http://163.172.85.133:8080/TenS/sports/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://2.makalemun.com/dd3_200.m3u8
+#EXTINF:-1,Aatrakhanru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://85.114.142.124:8080/hls/stream11.m3u8
+#EXTINF:-1,Bein Sports 2 HD
+http://85.114.142.124:8080/hls/stream15.m3u8
+#EXTINF:-1,Bein Sports 3 HD
+http://85.114.142.124:8080/hls/stream17.m3u8
+#EXTINF:-1,Bein Sports 4 HD
+http://85.114.142.124:8080/hls/stream18.m3u8
+#EXTINF:-1,Spor Smart HD
+http://85.114.142.124:8080/hls/stream23.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
+#EXTINF:-1,Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,Flight Sports
@@ -767,6 +791,12 @@ http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1,Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+#EXTINF:-1,E!
+http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1,ARY Music
 http://27.147.156.14:1935/ARY-Music/ARY-Music.stream/index.m3u8
 #EXTINF:-1,9xM
