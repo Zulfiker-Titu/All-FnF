@@ -348,7 +348,7 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,Alkass One HD
-http://alkasmsl4.akamaized.net/hls/live/2003123/alkass1hjgjghy/master480.m3u8
+http://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vc/master570.m3u8
 #EXTINF:-1,Alkass Two HD
 http://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
 #EXTINF:-1,Alkass Four HD
@@ -539,6 +539,8 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 http://27.147.156.14:1935/B4U-Movies/B4U-Movies.stream/playlist.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1,Housefull Movies
+http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Aabzy Dhakad
