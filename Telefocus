@@ -337,10 +337,14 @@ http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 https://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports First
 http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.121.36.238:8081/live/select1/chunks.m3u8
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1,Star Sports Select 1 (Opt-2)
+https://akamai.anytv.live/StarSportsSelect1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://103.121.36.238:8081/live/select2/chunks.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-2)
+https://akamai.anytv.live/StarSportsSelect2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dubai Sports
 http://27.147.156.14:1935/Dubai-Sports/Dubai-Sports.stream/playlist.m3u8
 #EXTINF:-1,Sky Net Sports 2
