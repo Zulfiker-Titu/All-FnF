@@ -379,8 +379,6 @@ http://85.114.142.124:8080/hls/stream17.m3u8
 http://85.114.142.124:8080/hls/stream18.m3u8
 #EXTINF:-1,S sport2
 http://85.114.142.124:8080/hls/stream22.m3u8
-#EXTINF:-1,Sky Sports Premier League
-http://sds3.selez.xyz/hls/skyepllsh/chunks.m3u8
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ESPN
@@ -816,7 +814,7 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1,Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1,E!
-http://45.126.83.51/dr9445/h/h16/01.m3u8
+http://45.126.83.51/uq2663/h/h10/01.m3u8
 #EXTINF:-1,ARY Music
 http://27.147.156.14:1935/ARY-Music/ARY-Music.stream/index.m3u8
 #EXTINF:-1,9xM
