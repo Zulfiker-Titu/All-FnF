@@ -365,7 +365,7 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
-#EXTINF:-1,Ten/Super Sports
+#EXTINF:-1,Ten/Super/PTV Sports
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Aatrakhanru Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
