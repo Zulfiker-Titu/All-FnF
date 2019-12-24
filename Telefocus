@@ -94,7 +94,7 @@ http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
 http://103.111.120.46/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Star Jalsha (Opt-3)
-http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.118.76.229:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
