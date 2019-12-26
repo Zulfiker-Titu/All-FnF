@@ -621,8 +621,14 @@ http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v
 http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1,Zee Anmol
+#EXTINF:-1,Zee Anmol (Opt-1)
+http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+#EXTINF:-1,Zee Anmol (Opt-2)
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Smile
+http://pockettv.xyz/api/zee.m3u8?c=smileusa
+#EXTINF:-1,Zee World
+http://pockettv.xyz/api/zee.m3u8?c=world
 #EXTINF:-1,Zee Bollywood
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
