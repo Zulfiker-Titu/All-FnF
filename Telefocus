@@ -371,16 +371,6 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,Aatrakhanru Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://85.114.142.124:8080/hls/stream11.m3u8
-#EXTINF:-1,Bein Sports 2 HD
-http://85.114.142.124:8080/hls/stream15.m3u8
-#EXTINF:-1,Bein Sports 3 HD
-http://85.114.142.124:8080/hls/stream17.m3u8
-#EXTINF:-1,Bein Sports 4 HD
-http://85.114.142.124:8080/hls/stream18.m3u8
-#EXTINF:-1,S sport2
-http://85.114.142.124:8080/hls/stream22.m3u8
 #EXTINF:-1,Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1,ESPN
@@ -521,8 +511,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 http://103.121.36.238:8081/live/hbo-64/playlist.m3u8
-#EXTINF:-1,HBO HiTS
-http://103.81.104.222/live/cinemaxx/index.m3u8
 #EXTINF:-1,MBC HD
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -543,6 +531,8 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,DIVA
 http://210.210.155.35/session/9bdeb862-2324-11ea-9f09-8213bdbb21c7/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,iFILM English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Alfajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,24/7 SCI-FI MOVIES
@@ -565,8 +555,10 @@ http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,& Pictures (Opt-2)
 http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,& prive
+#EXTINF:-1,& prive (Opt-1)
 http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1,& prive (Opt-2)
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:-1,& TV (Opt-01)
 http://103.121.36.238:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,& TV (Opt-02)
@@ -639,8 +631,6 @@ http://103.121.36.238:8081/live/zeeaction-35/playlist.m3u8
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:-1,UTV
-http://103.81.104.222/live/utvv/index.m3u8
 #EXTINF:-1,Zing
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Zing/ARY
