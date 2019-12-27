@@ -782,7 +782,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic (Opt-1)
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1,National Geographic (Opt-2)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
