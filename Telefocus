@@ -637,10 +637,10 @@ http://103.121.36.238:8081/live/zeeaction-35/playlist.m3u8
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gem Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:-1,Zing
+#EXTINF:-1,Zing (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
-#EXTINF:-1,Zing/ARY
-http://216.144.250.174/ZIng_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zing (Opt-2)
+http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1,Colors HD (Opt-1)
 https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
