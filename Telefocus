@@ -619,10 +619,8 @@ http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253
 http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
-#EXTINF:-1,Zee Anmol (Opt-1)
+#EXTINF:-1,Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
-#EXTINF:-1,Zee Anmol (Opt-2)
-http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Smile
 http://pockettv.xyz/api/zee.m3u8?c=smileusa
 #EXTINF:-1,Zee World
