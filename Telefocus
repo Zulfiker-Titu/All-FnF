@@ -709,8 +709,6 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1,SHRRANG TV
 http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
-#EXTINF:-1,AKARAM MIX
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,BOOGLE BOLLYWOOD
@@ -721,8 +719,6 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 #EXTINF:-1,Mahua Plus
 http://streamidvo.multitvsolution.in/Mahuaplus-c/playlist.m3u8
-#EXTINF:-1,Imayam TV
-http://streamidvo.multitvsolution.in/ImayamTV-b/playlist.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1,MEDIANET ADIMALI
