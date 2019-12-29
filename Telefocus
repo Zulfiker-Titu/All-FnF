@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[Visit in Facebook:Telefocus IPTV]
 https://www.facebook.com/telefocus.iptv/?referrer=whatsapp
+#EXTINF:-1,Ananda TV
+http://103.3.226.74:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,ASIAN TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,ATN BANGLA
@@ -54,7 +56,7 @@ http://103.118.76.229:1935/tvprogram/JAMUNA-TV/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/playlist.m3u8
 #EXTINF:-1,MOHONA TV
-http://27.147.156.14:1935/Mohona-TV/Mohona-TV.stream/chunks.m3u8
+http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,NTV
