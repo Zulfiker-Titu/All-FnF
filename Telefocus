@@ -34,7 +34,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Deepto TV
 https://triangle.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
-https://triangle.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+http://162.254.149.187:1935/live/deshtv/playlist.m3u8
 #EXTINF:-1,DURONTO TV
 https://triangle.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1,Sonic
