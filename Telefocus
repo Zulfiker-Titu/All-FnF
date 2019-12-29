@@ -22,13 +22,13 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,CHANNEL 9
 http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
 #EXTINF:-1,CHANNEL 24
-https://triangle.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://ap01.iqplay.tv:81/iqb8002/ch4n3ls.m3u8
 #EXTINF:-1,DBC News
-https://triangle.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
 https://triangle.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -236,7 +236,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,RTV Music
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-https://triangle.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
 #EXTINF:-1,Bangla Talkies
 http://27.147.156.14:1935/BanglaTalk/banglatalk.stream/playlist.m3u8
 #EXTINF:-1,Music Fatafati
