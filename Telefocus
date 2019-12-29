@@ -438,7 +438,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN International
 https://triangle.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1,CNA
