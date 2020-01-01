@@ -780,11 +780,11 @@ http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1,E!
 http://45.126.83.51/uq2663/h/h10/01.m3u8
 #EXTINF:-1,9xM
-http://27.147.156.14:1935/9-XM/9-XM.stream/playlist.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=9xm
 #EXTINF:-1,9x Jalwa
-http://27.147.156.14:1935/9x-Jalwa/9x-Jalwa.stream/playlist.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
 #EXTINF:-1,9xO
-http://27.147.156.14:1935/9-XO/9-XO.stream/playlist.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=9xo
 #EXTINF:-1,Zoom
 http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,B4U Music
@@ -794,9 +794,9 @@ http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
 #EXTINF:-1,DIL SE
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1,Music India
-http://27.147.156.14:1935/Music-India/Music-India.stream/playlist.m3u8
+http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,Music Mastii (Opt-1)
-http://27.147.156.14:1935/Mastii/mastii.stream/playlist.m3u8
+http://103.121.36.238:8081/live/mastimusic-65/playlist.m3u8
 #EXTINF:-1,Music Mastii (Opt-2)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Jhanjar Music
