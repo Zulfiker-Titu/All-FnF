@@ -485,8 +485,6 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
 #EXTINF:-1,Ganga Aarti
 http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
-#EXTINF:-1,HUM MASALA
-http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,FOOD52
@@ -639,12 +637,14 @@ http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony SAB
+#EXTINF:-1,Sony SAB (Opt-1)
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1,Sony SAB (Opt-2)
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix (Opt-1)
-http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
-https://akamai.anytv.live/SonyPicsHD/tracks-v1a1/mono.m3u8
+http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
 http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
@@ -745,6 +745,8 @@ http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1,ACC TV
+http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
