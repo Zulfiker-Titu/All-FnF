@@ -807,8 +807,6 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,MTV Beats
-http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/playlist.m3u8
 #EXTINF:-1,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC 24
