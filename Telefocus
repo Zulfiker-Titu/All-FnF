@@ -320,13 +320,13 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Live Football
 http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
-http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
+http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
-http://fr-c.movply.stream/hls/sony-ten-2-hd.m3u8
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
 http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-02)
@@ -336,7 +336,7 @@ http://103.121.36.238:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1,Sony ESPN (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-01)
-http://103.121.36.238:8081/live/sonysix/playlist.m3u8
+http://216.144.250.174/Sony_SiX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
@@ -346,7 +346,7 @@ http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-https://akamai.anytv.live/StartSports2HHD/tracks-v1a1/mono.m3u8
+http://103.102.27.172:8080/hls/stream2.m3u8
 #EXTINF:-1,Star Sports First
 http://27.147.156.14:1935/Star_Sports_First/Star_Sports_First.stream/playlist.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
