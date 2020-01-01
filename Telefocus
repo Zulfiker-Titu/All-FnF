@@ -719,11 +719,7 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
 #EXTINF:-1,TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1,BBC Life Style
-https://triangle.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1,FOX Life 1
-https://triangle.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1,FOX Life 2
+#EXTINF:-1,FOX Life
 https://akamai.anytv.live/FoxLifeHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History TV
 http://103.121.36.238:8081/live/history/chunks.m3u8
@@ -739,10 +735,8 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:-1,NAT GEO WILD (Opt-1)
+#EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
-#EXTINF:-1,NAT GEO WILD (Opt-2)
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic (Opt-1)
@@ -783,8 +777,6 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1,E!
 http://45.126.83.51/uq2663/h/h10/01.m3u8
-#EXTINF:-1,ARY Music
-http://27.147.156.14:1935/ARY-Music/ARY-Music.stream/index.m3u8
 #EXTINF:-1,9xM
 http://27.147.156.14:1935/9-XM/9-XM.stream/playlist.m3u8
 #EXTINF:-1,9x Jalwa
