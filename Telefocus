@@ -853,8 +853,6 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,First Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1,Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 #EXTINF:-1,Zeta TV HD
