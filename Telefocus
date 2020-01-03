@@ -88,7 +88,7 @@ http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1,Sony Aath (Opt-01)
 http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
 #EXTINF:-1,Sony Aath (Opt-02)
-http://103.111.120.46/hls/Zee_Chinaman.m3u8
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Star Jalsha (Opt-1)
 http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
