@@ -340,7 +340,7 @@ https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.121.36.238:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+http://live.finetv.biz:2086/StarSports1/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
@@ -348,7 +348,7 @@ http://103.102.27.172:8080/hls/stream2.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
 #EXTINF:-1,Star Sports Select 2
-http://103.121.36.238:8081/live/select2/chunks.m3u8
+http://live.finetv.biz:2086/StarSportsSelect2/index.m3u8
 #EXTINF:-1,Sky Net Sports 2
 http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
