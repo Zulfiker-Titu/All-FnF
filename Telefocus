@@ -737,6 +737,10 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
 #EXTINF:-1,RT International
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1,BBC Earth
+http://103.118.76.229:1935/tvprogram/BBC-EARTH/playlist.m3u8
+#EXTINF:-1,Sony BBC Earth
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1,NAT GEO WILD
