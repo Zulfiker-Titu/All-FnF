@@ -621,8 +621,10 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
 https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors SD
+#EXTINF:-1,Colors SD (Opt-1)
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+#EXTINF:-1,Colors SD (Opt-2)
+http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Fox Action Movie/Sony TV
 http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
