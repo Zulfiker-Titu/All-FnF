@@ -491,8 +491,6 @@ http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
-#EXTINF:-1,FOOD52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,COOKING 4U
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,foodiee
