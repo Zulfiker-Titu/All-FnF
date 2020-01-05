@@ -312,7 +312,7 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
 http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
