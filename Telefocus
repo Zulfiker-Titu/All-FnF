@@ -283,10 +283,6 @@ http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,Nick
-http://103.121.36.238:8081/live/nike-50/chunks.m3u8
-#EXTINF:-1,Nick JR
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
@@ -383,8 +379,6 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsbv/master570.m3u8
 http://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:-1,Alkass Five HD
 http://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
-#EXTINF:-1,true premier football 
-http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
