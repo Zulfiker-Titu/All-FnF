@@ -265,6 +265,8 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 http://103.121.36.238:8081/live/nike-50/chunks.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Big Magic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -557,6 +559,8 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1,Housefull Movies
 http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
+#EXTINF:-1,Big Ganga
+http://pockettv.xyz/api/zee.m3u8?c=bigganga
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Cinema TV
