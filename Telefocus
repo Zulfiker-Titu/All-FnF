@@ -76,7 +76,7 @@ http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Discovery
 http://103.121.36.238:8081/live/discovery-12/playlist.m3u8
 #EXTINF:-1,National Geographic
-http://103.81.104.222/live/nat-geo/index.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1,Akaash Aath (Opt-01)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-02)
@@ -340,7 +340,7 @@ http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://172.16.50.2:8080/hls/starsports2.m3u8
 #EXTINF:-1,Star Sports Select 1
-http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+http://live.finetv.biz:2086/StarSportsSelect1/index.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
@@ -426,7 +426,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNN USA
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNA World
@@ -650,11 +650,11 @@ https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
 http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
-http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
+http://fr-c.movply.stream/hls/Star_Plus.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold (Opt-1)
-http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
+http://fr-c.movply.stream/hls/Star_Gold.m3u8
 #EXTINF:-1,Star Gold (Opt-2)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Life
@@ -665,8 +665,8 @@ http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1,Zee TV HD (Opt-2)
 http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
-#EXTINF:-1,Zee TV
-http://103.118.76.229:1935/tvprogram/ZEE-TV/playlist.m3u8
+#EXTINF:-1,Zee TV SD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,Zee ETC
