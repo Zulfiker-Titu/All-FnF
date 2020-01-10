@@ -506,7 +506,7 @@ http://103.121.36.238:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies HD (Opt-2)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
-http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 http://103.121.36.238:8081/live/hbo-64/playlist.m3u8
 #EXTINF:-1,MBC HD
