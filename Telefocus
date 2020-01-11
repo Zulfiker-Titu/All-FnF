@@ -533,10 +533,10 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1,ROMEDY NOW
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
-#EXTINF:-1,DIVA
-http://210.210.155.35/session/9bdeb862-2324-11ea-9f09-8213bdbb21c7/uq2663/h/h11/01.m3u8?fluxustv.m3u8
 #EXTINF:-1,iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1,Alfajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,SCI-FI MOVIES
@@ -813,6 +813,8 @@ http://103.121.36.238:8081/live/mastimusic-65/playlist.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,Kral World HD
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 #EXTINF:-1,MK Tunes
 http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Music Now
