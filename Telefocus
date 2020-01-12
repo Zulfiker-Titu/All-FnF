@@ -543,6 +543,12 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1,Life Time
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+#EXTINF:-1,24 HD
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1,Wowow Movies
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1,Huya
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1,Alfajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,SCI-FI MOVIES
@@ -691,6 +697,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=etc
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1,The Q
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1,Subrang TV
@@ -703,6 +711,10 @@ http://streamidvo.multitvsolution.in/MahaMovie-e/playlist.m3u8
 http://live.airteltvplus.com/hls/UxLS6bC_Gi7QivozQp4CcA/1568453439/hum_sitarey_low/index.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1,Geo Entertainment
+http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
+#EXTINF:-1,Geo Kahani
+http://stream.jeem.tv/geo/geokahani_abr/playlist.m3u8
 #EXTINF:-1,KHYBER MIDDLE EAST
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1,SHRRANG TV
@@ -761,12 +773,6 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1,Fashion TV 1
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1,Fashion TV 2
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Fashion TV 3
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Jeet
@@ -791,6 +797,14 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 http://45.126.83.51/dr9445/h/h16/01.m3u8
 #EXTINF:-1,The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1,Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,Fashion TV 1
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:-1,Fashion TV 2
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Fashion TV 3
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,9xM (Opt-1)
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9xM (Opt-2)
@@ -823,6 +837,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,Kral World HD
 http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1,Hally POP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 #EXTINF:-1,MK Tunes
 http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Music Now
