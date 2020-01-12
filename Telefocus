@@ -102,11 +102,11 @@ http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
-http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1578806339~exp=1578809339~acl=/*~hmac=f1245806f2f6c111c4b692f5f7d06ba502f31b618b6844da3eb8576d90290121
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
 http://103.121.36.238:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zbanglacnm
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1578806339~exp=1578809339~acl=/*~hmac=f1245806f2f6c111c4b692f5f7d06ba502f31b618b6844da3eb8576d90290121
 #EXTINF:-1,Bongo Movies
 http://42.0.6.130/hls/qW4dVSlc7A9NHG3DKd_vnw/1564902824/bongo_movies_hi/index.m3u8
 #EXTINF:-1,Bongo Bangla
@@ -134,7 +134,7 @@ http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
 #EXTINF:-1,News Time Bangla
 http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
 #EXTINF:-1,Zee 24 Ghanta
-http://pockettv.xyz/api/zee.m3u8?c=24ghanta
+https://z5ams.akamaized.net/24ghanta/index.m3u8?hdnts=st=1578806068~exp=1578809068~acl=/*~hmac=fc310fc3536df2477f358cd0a37dfdb49c15a88241ae9d8382f46695f1124165
 #EXTINF:-1,Colors Bangla TV
 http://43.231.22.238:8081/COLORSBANGLA/colorsbangatv/chunks.m3u8
 #EXTINF:-1,Khushboo TV
@@ -484,7 +484,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 EXTINF:-1,Zee News (Opt-1)
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee News (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zeenews
+https://z5ams.akamaized.net/zeenews/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,LOK SABHA TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1,Saudi Quran
@@ -500,7 +500,7 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Sanskar
-http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+https://z5ams.akamaized.net/sanskartv/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
 #EXTINF:-1,Iskcon Girgoav
@@ -508,7 +508,7 @@ https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
 #EXTINF:-1,Ganga Aarti
 http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 #EXTINF:-1,Living Foodz
-http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
+https://z5ams.akamaized.net/livingfoodz/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,COOKING 4U
@@ -540,7 +540,7 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 #EXTINF:-1,Zee Cafe HD (Opt-1)
 http://103.121.36.238:8081/live/zeecafe-30/chunks.m3u8
 #EXTINF:-1,Zee Cafe HD (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+https://z5ams.akamaized.net/zeecafehd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,ROMEDY NOW
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,iFILM English
@@ -562,27 +562,27 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1,Star World (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,& flix (Opt-1)
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,& flix (Opt-2)
 http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,& Pictures (Opt-1)
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,& Pictures (Opt-2)
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,& prive (Opt-1)
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,& prive (Opt-2)
 http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1,& TV (Opt-01)
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+https://z5ams.akamaized.net/andtvhd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,& TV (Opt-02)
 http://103.121.36.238:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,Zee Cinema HD (Opt-1)
 http://103.121.36.238:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1,Zee Cinema HD (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zee Cinema
-http://pockettv.xyz/api/zee.m3u8?c=cinemausa
+https://z5ams.akamaized.net/cinemausa/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1,B4U Kadak
@@ -590,7 +590,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1,Housefull Movies
 http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
 #EXTINF:-1,Big Ganga
-http://pockettv.xyz/api/zee.m3u8?c=bigganga
+https://z5ams.akamaized.net/bigganga/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Cinema TV
@@ -626,11 +626,11 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1,Zee Anmol (Opt-1)
 http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Anmol (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+https://z5ams.akamaized.net/zeeanmol/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zee Smile
-http://pockettv.xyz/api/zee.m3u8?c=smileusa
+https://z5ams.akamaized.net/smileusa/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zee World
-http://pockettv.xyz/api/zee.m3u8?c=world
+https://z5ams.akamaized.net/world/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zee Bollywood
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
@@ -642,7 +642,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1,Zing (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1,Zing (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=zing
+https://z5ams.akamaized.net/zing/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Colors HD (Opt-1)
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
@@ -692,7 +692,7 @@ http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_27746
 #EXTINF:-1,Star Vijay
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV HD (Opt-1)
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+https://z5ams.akamaized.net/zeetvhd/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zee TV HD (Opt-2)
 http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
 #EXTINF:-1,Zee TV
@@ -700,7 +700,7 @@ http://103.118.76.229:1935/tvprogram/ZEE-TV/playlist.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,Zee ETC
-http://pockettv.xyz/api/zee.m3u8?c=etc
+https://z5ams.akamaized.net/etc/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,The Q
@@ -814,15 +814,15 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 #EXTINF:-1,9xM (Opt-1)
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9xM (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=9xm
+https://z5ams.akamaized.net/9xm/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,9x Jalwa (Opt-1)
 http://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9x Jalwa (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+https://z5ams.akamaized.net/9xjalwa/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,9xO (Opt-2)
 http://streamidvo.multitvsolution.in/9XO-b/playlist.m3u8
 #EXTINF:-1,9xO (Opt-2)
-http://pockettv.xyz/api/zee.m3u8?c=9xo
+https://z5ams.akamaized.net/9xo/index.m3u8?hdnts=st=1578806609~exp=1578809609~acl=/*~hmac=6febd720d581bbbfed071c54c69897b52d44e0431ad8f53f142f67ebbcc504db
 #EXTINF:-1,Zoom
 http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,B4U Music
