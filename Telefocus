@@ -50,7 +50,7 @@ http://103.118.76.229:1935/tvprogram/INDEPENDENT/chunklist.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.118.76.229:1935/tvprogram/JAMUNA-TV/chunklist.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/chunklist.m3u8
+http://103.118.76.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist.m3u8
 #EXTINF:-1,MOHONA TV
 http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
