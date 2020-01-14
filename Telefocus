@@ -22,7 +22,7 @@ http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,BTV World
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 9
-http://www.skybdlive.com/live/skyfeed1003/index.m3u8
+http://103.118.76.229:1935/tvprogram/CHANNEL-9/chunklist.m3u8
 #EXTINF:-1,CHANNEL 24
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
@@ -40,17 +40,17 @@ http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1,Ekushey TV
 http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
-http://www.skybdlive.com/live/skyfeed1001/index.m3u8
+http://103.118.76.229:1935/tvprogram/GAZI-TV/chunklist.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1,BD IP 1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/INDEPENDENT/chunklist.m3u8
 #EXTINF:-1,Jamuna TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+http://103.118.76.229:1935/tvprogram/JAMUNA-TV/chunklist.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/MAASRANGA-MOBILE/chunklist.m3u8
 #EXTINF:-1,MOHONA TV
 http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
 #EXTINF:-1,MY TV
@@ -74,7 +74,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Songsad TV
 http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1,Discovery
-http://103.118.76.229:1935/tvprogram/DISCOVERY/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/DISCOVERY/chunklist.m3u8
 #EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1,Akaash Aath (Opt-01)
@@ -86,19 +86,19 @@ http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m
 #EXTINF:-1,Colors Bangla (Opt-02)
 http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1,Sony Aath (Opt-01)
-http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/SONY-AATH/chunklist.m3u8
 #EXTINF:-1,Sony Aath (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Star Jalsha (Opt-1)
-http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/STAR-JALSHA/chunklist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
 http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
-http://103.118.76.229:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/JALSHA-MOVIES/chunklist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
-http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/ZEE-BANGLA/chunklist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
@@ -242,7 +242,7 @@ http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoa
 #EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.118.76.229:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/SANGEET-BANGLA/chunklist.m3u8
 #EXTINF:-1,Music Fatafati
 http://209.126.117.64:1935/local/mf/playlist.m3u8
 #EXTINF:-1,Doom Music
@@ -286,7 +286,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1,AniPlus (Opt-2)
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,CN HD+
-http://103.118.76.229:1935/tvprogram/CARTOON/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/CARTOON/chunklist.m3u8
 #EXTINF:-1,CARTOON NETWORK 1
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
@@ -346,13 +346,13 @@ http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://172.16.50.2:8080/hls/starsports2.m3u8
 #EXTINF:-1,Star Sports Select 1
-http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+http://103.118.76.229:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Sky Net Sports 2
-http://103.118.76.229:1935/tvprogram/CBeebies/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/CBeebies/chunklist.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -442,7 +442,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/BBC-WORLD/chunklist.m3u8
 #EXTINF:-1,CNN USA
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNA World
@@ -522,7 +522,7 @@ http://103.121.36.238:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies HD (Opt-2)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
-http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 http://103.121.36.238:8081/live/hbo-64/playlist.m3u8
 #EXTINF:-1,MBC HD
@@ -636,7 +636,7 @@ http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Fox Action Movie/Sony TV
 http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
-http://103.118.76.229:1935/tvprogram/SONY-HD/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/SONY-HD/chunklist.m3u8
 #EXTINF:-1,Sony TV (Opt-2)
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,Sony TV (Opt-3)
@@ -662,11 +662,11 @@ https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Sony Pix (Opt-2)
 http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
-http://103.118.76.229:1935/tvprogram/STAR-PLUS/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/STAR-PLUS/chunklist.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold (Opt-1)
-http://103.118.76.229:1935/tvprogram/STAR-GOLD/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/STAR-GOLD/chunklist.m3u8
 #EXTINF:-1,Star Gold (Opt-2)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Life
@@ -676,7 +676,7 @@ http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV HD
 http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
 #EXTINF:-1,Zee TV
-http://103.118.76.229:1935/tvprogram/ZEE-TV/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/ZEE-TV/chunklist.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,ZEE MUNDO
@@ -850,7 +850,7 @@ http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low
 #EXTINF:-1,MTV/vh1 India
 http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 #EXTINF:-1,MTV (India)
-http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
+http://103.118.76.229:1935/tvprogram/MTV/chunklist.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV HiTS
