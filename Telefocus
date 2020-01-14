@@ -679,8 +679,6 @@ http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
 http://103.118.76.229:1935/tvprogram/ZEE-TV/playlist.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1,Zee ETC
-https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1,The Q
@@ -701,8 +699,6 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
 #EXTINF:-1,Geo Kahani
 http://stream.jeem.tv/geo/geokahani_abr/playlist.m3u8
-#EXTINF:-1,KHYBER MIDDLE EAST
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1,SHRRANG TV
 http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
 #EXTINF:-1,ANALAI EXPRESS
@@ -776,7 +772,7 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,TLC HD World
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1,TLC
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:-1,Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
 #EXTINF:-1,Red Bull TV
@@ -817,6 +813,8 @@ http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 http://103.121.36.238:8081/live/mastimusic-65/playlist.m3u8
 #EXTINF:-1,Music Mastii (Opt-2)
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1,Zee ETC
+https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,Kral World HD
