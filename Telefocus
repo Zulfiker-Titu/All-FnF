@@ -52,9 +52,12 @@ http://103.118.76.234:1935/tvprogram/JAMUNA-TV/chunklist.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.118.76.234:1935/tvprogram/MAASRANGA-MOBILE/chunklist.m3u8
 #EXTINF:-1,MOHONA TV
-http://42.0.6.130/hls/vbD0JnHMvBTfUQ6Y7Mlxag/1576663234/mohona_tv_hi/index.m3u8
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MY TV
-http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
+http://
+
+
+
 #EXTINF:-1,NTV
 http://103.121.36.238:8081/live/ntv/chunks.m3u8
 #EXTINF:-1,NTV (UK)
