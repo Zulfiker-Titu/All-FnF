@@ -109,8 +109,6 @@ http://103.121.36.238:8081/live/zeebanglacinema-33/playlist.m3u8
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Bongo Movies
 http://42.0.6.130/hls/qW4dVSlc7A9NHG3DKd_vnw/1564902824/bongo_movies_hi/index.m3u8
-#EXTINF:-1,Bongo Bangla
-http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
 #EXTINF:-1,Tele Film
 http://43.231.22.238:8081/Telefilm/telefilm/chunks.m3u8
 #EXTINF:-1,RPlus Gold
