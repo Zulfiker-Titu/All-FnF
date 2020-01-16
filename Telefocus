@@ -791,25 +791,24 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,PUBLIC MUSIC
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1,MK Tunes
+http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Kral World HD
 http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 #EXTINF:-1,Hally POP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
-#EXTINF:-1,MK Tunes
-http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-
-
-
+#EXTINF:-1,MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1,Music Box
 http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1,DJING HITS
 https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,PUBLIC MUSIC
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1,AVA MUSIC
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1,MN TV MUSIC
