@@ -545,6 +545,16 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,WB TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+#EXTINF:-1,FOX Movies Premium
+https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+#EXTINF:-1,Fox Family Movies
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:-1,Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+#EXTINF:-1,FX
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+#EXTINF:-1,HiTS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1,& flix
 http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,& Pictures
