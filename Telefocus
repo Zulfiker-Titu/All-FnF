@@ -129,8 +129,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,RPlus News
 http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
-#EXTINF:-1,ARTAGE NEWS
-http://artage.livebox.co.in/ArtageNewshls/live.m3u8
 #EXTINF:-1,Bangla Time
 http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
 #EXTINF:-1,News Time Bangla
@@ -421,7 +419,7 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,Bein Sports 1
 https://mmm.sportbar.biz/lba/NmI3OTZiMzU0YmRiODMwZGNkMWY1NzZmMjNmZTA4OWI=/g5/beinsport1tur.m3u8
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1,Fox Sports Australia
 http://45.58.62.92:8080
 #EXTINF:-1,Fox Sports 2
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
