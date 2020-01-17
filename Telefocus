@@ -56,7 +56,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,MY TV
 http://103.121.36.238:8081/live/mytv/playlist.m3u8
 #EXTINF:-1,NTV
-http://103.121.36.238:8081/live/ntv/chunks.m3u8
+http://103.68.116.50/live/feed1007/index.m3u8
 #EXTINF:-1,NTV (UK)
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,NTV (US)
