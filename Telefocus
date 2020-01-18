@@ -397,6 +397,8 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1,Arena Sport 2
+https://mmm.sportbox.ws/lba/123/g8/arena2sport.m3u8
 #EXTINF:-1,Bein Sports 1
 https://mmm.sportbar.biz/lba/NmI3OTZiMzU0YmRiODMwZGNkMWY1NzZmMjNmZTA4OWI=/g5/beinsport1tur.m3u8
 #EXTINF:-1,Fox Sports 2
@@ -483,6 +485,8 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b110
 https://vodaapp.shemaroo.com/iskongirgoav/Stream1/playlist.m3u8
 #EXTINF:-1,Ganga Aarti
 http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
+#EXTINF:-1,afn
+http://203.207.56.228/live/iptv001.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,COOKING 4U
@@ -497,9 +501,11 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1,Redby HBO
+#EXTINF:-1,Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1,MBC MAX HD
+#EXTINF:-1,MBC MAX HD (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1,MBC MAX HD (Opt-2)
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
@@ -723,6 +729,8 @@ http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
 #EXTINF:-1,National Geographic (Opt-2)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1,CGTV Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1,YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,ACC TV
@@ -731,6 +739,8 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1, Crime + Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1,World Discovery
 http://198.255.23.18:2095/streams/228_.m3u8
 #EXTINF:-1,Discovery Channel
