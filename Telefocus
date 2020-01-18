@@ -321,9 +321,13 @@ http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://www.skybdlive.com/live/skyfeed1021/index.m3u8
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1,Star Sports Select 1 (Opt-2)
+http://103.58.73.26/streams/113/index.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-1)
+http://103.58.73.26/streams/114/index.m3u8
+#EXTINF:-1,Star Sports Select 2 (Opt-2)
 http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
@@ -493,6 +497,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,Redby HBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1,MBC MAX HD
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -529,16 +535,14 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,WB TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1,FOX Movies Premium
-https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-#EXTINF:-1,Fox Family Movies
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:-1,HiTS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+#EXTINF:-1,Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,& flix
 http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,& Pictures
@@ -563,8 +567,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Cinema TV
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:-1,Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 2
@@ -622,7 +624,7 @@ http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 #EXTINF:-1,SONY MAX (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,SONY MAX (Opt-2)
-http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
+http://103.58.73.26/streams/109/index.m3u8
 #EXTINF:-1,Sony MAX2
 http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX (Opt-1)
@@ -689,12 +691,8 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1,ÜMID TV
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
-#EXTINF:-1,BEN TV
-http://kanalben.cubecdn.net/live/kanalben1.m3u8
 #EXTINF:-1,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,MALDIVES TV
-https://58bdd3c8ef31c.streamlock.net/live/smil:maldivestv.smil/chunklist_w286000383_b1596000_sleng.m3u8
 #EXTINF:-1,DD Kisan
 http://streamidvo.multitvsolution.in/DDKisan-c/playlist.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
@@ -777,7 +775,9 @@ https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9xO
 http://streamidvo.multitvsolution.in/9XO-b/playlist.m3u8
-#EXTINF:-1,Zoom
+#EXTINF:-1,Zoom (Opt-1)
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1,Zoom (Opt-2)
 http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
@@ -813,8 +813,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?sta
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1,Music Box
 http://212.26.132.86/hls/mb_ua.m3u8
-#EXTINF:-1,DJing Dance Floor
-https://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,DJing Avicii
+http://www.djing.com/tv/session_avicii.m3u8
 #EXTINF:-1,DJing Karaoke
 https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1,DJING HITS
