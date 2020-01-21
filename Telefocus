@@ -283,8 +283,6 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1,TCL Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1, Gem Junior
@@ -300,7 +298,7 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
-http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
 http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
@@ -310,19 +308,19 @@ http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-01)
-http://103.121.36.238:8081/live/espnhd/playlist.m3u8
+http://103.58.73.26/streams/110/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-01)
 http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
-https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://103.121.36.238:8081/live/starsports2/chunks.m3u8
+http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://www.skybdlive.com/live/skyfeed1021/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
@@ -351,10 +349,6 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1,true Premier football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,true Premier football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Ten/Super/PTV Sports
@@ -522,7 +516,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MBC Bollywood (Opt-2)
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MNX
-http://103.121.36.238:8081/live/mnx/playlist.m3u8
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
@@ -530,7 +524,7 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 #EXTINF:-1,Zee Cafe HD
 http://103.121.36.238:8081/live/zeecafe-30/chunks.m3u8
 #EXTINF:-1,ROMEDY NOW
-http://103.121.36.238:8081/live/romedynow/playlist.m3u8
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Life Time
