@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,[Visit in Facebook:Telefocus IPTV]
 https://www.facebook.com/telefocus.iptv/?referrer=whatsapp
 #EXTINF:-1,Ananda TV
@@ -14,7 +14,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,BANGLA VISION
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1,BIJOY TV
-http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+http://103.121.36.238:8081/live/bijoytv/playlist.m3u8
 #EXTINF:-1,BOISHAKHI TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BTV
@@ -32,13 +32,13 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,DBC News
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
-http://103.58.73.26/streams/120/index.m3u8
+http://103.121.36.238:8081/live/deepto/chunks.m3u8
 #EXTINF:-1,Desh TV
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
-http://telelivetv.webredirect.org:8081/globeworld2020/ekattor/playlist.m3u8
+http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1,Ekushey TV
-http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
+http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/GAZI-TV/chunklist.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
@@ -54,7 +54,7 @@ http://103.118.76.234:1935/tvprogram/MAASRANGA-TV/chunklist.m3u8
 #EXTINF:-1,MOHONA TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,MY TV
-http://telelivetv.webredirect.org:8081/globeworld2020/mytv/playlist.m3u8
+http://103.121.36.238:8081/live/mytv/playlist.m3u8
 #EXTINF:-1,NTV
 http://103.118.76.234:1935/tvprogram/N-TV/chunklist.m3u8
 #EXTINF:-1,NTV (UK)
@@ -62,11 +62,11 @@ http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Nagorik TV
-http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/playlist.m3u8
+http://103.121.36.238:8081/live/nagorik/playlist.m3u8
 #EXTINF:-1,News 24
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,RTV
-http://telelivetv.webredirect.org:8081/globeworld2020/rtv/playlist.m3u8
+http://103.121.36.238:8081/live/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
@@ -84,7 +84,7 @@ http://streamidvo.multitvsolution.in/AkashBangla-a/playlist.m3u8
 #EXTINF:-1,Colors Bangla (Opt-01)
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m3u8
 #EXTINF:-1,Colors Bangla (Opt-02)
-http://telelivetv.webredirect.org:8081/globeworld2020/colorsbangla/playlist.m3u8
+http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1,Sony Aath (Opt-01)
 http://103.118.76.234:1935/tvprogram/SONY-AATH/chunklist.m3u8
 #EXTINF:-1,Sony Aath (Opt-02)
@@ -92,19 +92,19 @@ https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Star Jalsha (Opt-1)
 http://103.118.76.234:1935/tvprogram/STAR-JALSHA/chunklist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
-http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
+http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
-http://103.58.73.26/streams/115/index.m3u8
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
 http://103.58.73.26/streams/107/index.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
-http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/playlist.m3u8
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
 https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-1)
-http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/playlist.m3u8
+http://103.121.36.238:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema (Opt-2)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 #EXTINF:-1,Bongo Movies
@@ -300,31 +300,31 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
-https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+http://fr-c.movply.stream/hls/sony-ten-1-hd.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-http://103.58.73.26/streams/112/index.m3u8
+http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
-http://163.172.85.133:8080/TenS/3/index.m3u8
+http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-01)
-http://103.58.73.26/streams/110/index.m3u8
+http://103.121.36.238:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1,Sony ESPN (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-01)
 http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
-http://fr-c.movply.stream/hls/sony-six-hd.m3u8
+https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
-http://103.58.73.26/streams/116/index.m3u8
+http://103.121.36.238:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.68.116.50/live/feed1006/index.m3u8
+http://www.skybdlive.com/live/skyfeed1021/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
@@ -351,9 +351,9 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:-1,true premier football 1
+#EXTINF:-1,true Premier football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,true premier football 2
+#EXTINF:-1,true Premier football 2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
@@ -522,7 +522,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MBC Bollywood (Opt-2)
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+http://103.121.36.238:8081/live/mnx/playlist.m3u8
 #EXTINF:-1,Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,AXN
@@ -530,7 +530,7 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 #EXTINF:-1,Zee Cafe HD
 http://103.121.36.238:8081/live/zeecafe-30/chunks.m3u8
 #EXTINF:-1,ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Life Time
