@@ -302,11 +302,11 @@ http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-01)
-http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
+http://103.58.73.26/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
-http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
+http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-01)
@@ -320,11 +320,11 @@ http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://www.skybdlive.com/live/skyfeed1021/index.m3u8
+http://103.68.116.50/live/feed1006/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
@@ -351,6 +351,10 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
 #EXTINF:-1,Sports Arena
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
+#EXTINF:-1,true premier football 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,true premier football 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Ten/Super/PTV Sports
@@ -405,8 +409,6 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 https://mmm.sportbox.ws/lba/123/g8/arena2sport.m3u8
 #EXTINF:-1,Bein Sports 1
 https://mmm.sportbar.biz/lba/NmI3OTZiMzU0YmRiODMwZGNkMWY1NzZmMjNmZTA4OWI=/g5/beinsport1tur.m3u8
-#EXTINF:-1,Fox Sports 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1,Fox Sports 2
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:-1,Fox Sports 3
@@ -529,7 +531,7 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 http://103.121.36.238:8081/live/zeecafe-30/chunks.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,iFILM
+#EXTINF:-1,iFILM English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Life Time
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
