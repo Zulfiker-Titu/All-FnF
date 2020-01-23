@@ -36,7 +36,7 @@ http://103.58.73.26/streams/120/index.m3u8
 #EXTINF:-1,Desh TV
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
-http://telelivetv.webredirect.org:8081/globeworld2020/ekattor/playlist.m3u8
+https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
 http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
@@ -608,7 +608,7 @@ http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bollywood
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Action (Opt-1)
-http://103.121.36.238:8081/live/zeeaction-35/playlist.m3u8
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:-1,Zee Action (Opt-2)
 http://216.144.250.174/Zee_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gem Bollywood
@@ -623,8 +623,6 @@ http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1,Colors SD (Opt-2)
 http://fr-c.movply.stream/hls/Colors.m3u8
-#EXTINF:-1,Fox Action Movie/Sony TV
-http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/SONY-HD/chunklist.m3u8
 #EXTINF:-1,Sony TV (Opt-2)
@@ -632,7 +630,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,Sony TV (Opt-3)
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX HD
-http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,SONY MAX (Opt-2)
@@ -668,7 +666,7 @@ http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dabang TV
 http://103.121.36.238:8081/live/dabang-48/playlist.m3u8
 #EXTINF:-1,Zee TV HD
-http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
+https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 #EXTINF:-1,Zee TV
 http://103.118.76.234:1935/tvprogram/ZEE-TV/chunklist.m3u8
 #EXTINF:-1,ZEE BIOSKOP
