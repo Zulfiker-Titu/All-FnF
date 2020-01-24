@@ -837,6 +837,8 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 #EXTINF:-1,Hally POP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
+#EXTINF:-1,Arirang World
+https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
 #EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,Mooz Hits
