@@ -333,18 +333,12 @@ http://103.68.116.50/live/feed1006/index.m3u8
 http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://103.58.73.26/streams/113/index.m3u8
-#EXTINF:-1,Star Sports Select 2 (Opt-1)
+#EXTINF:-1,Star Sports Select 2
 http://103.58.73.26/streams/114/index.m3u8
-#EXTINF:-1,Star Sports Select 2 (Opt-2)
-http://103.121.36.238:8081/live/select2/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Sky Net Sports 2
 http://103.118.76.234:1935/tvprogram/CBeebies/chunklist.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
-#EXTINF:-1,Sky Sports Football
-http://103.121.36.238:8081/live/bein1/playlist.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
@@ -511,9 +505,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,foodiee
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1,Star Movies HD (Opt-1)
-http://103.121.36.238:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1,Star Movies HD (Opt-2)
+#EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
@@ -521,10 +513,8 @@ http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1,MBC MAX HD (Opt-1)
+#EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1,MBC MAX HD (Opt-2)
-http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
 #EXTINF:-1,MBC Bollywood (Opt-1)
@@ -539,8 +529,6 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 #EXTINF:-1,Lotus Macau
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
-#EXTINF:-1,Zee Cafe HD
-http://103.121.36.238:8081/live/zeecafe-30/chunks.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,iFILM
@@ -557,10 +545,12 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,SCI-FI MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Star World (UAE)
+#EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,WB TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+#EXTINF:-1,Fox Action Movies
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
@@ -569,12 +559,6 @@ https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1,& flix
-http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1,& Pictures
-http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1,& prive
-http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1,& TV
 https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1,Zee Cinema
@@ -653,10 +637,8 @@ http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1,Sony SAB (Opt-2)
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Pix (Opt-1)
+#EXTINF:-1,Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
-#EXTINF:-1,Sony Pix (Opt-2)
-http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
 http://103.118.76.234:1935/tvprogram/STAR-PLUS/chunklist.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
@@ -734,16 +716,14 @@ http://103.118.76.234:1935/tvprogram/BBC-EARTH/chunklist.m3u8
 #EXTINF:-1,Sony BBC Earth
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1,NAT GEO PEOPLE
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,National Geographic (Opt-1)
-http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1,National Geographic (Opt-2)
+#EXTINF:-1,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1,CGTV Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
@@ -859,10 +839,8 @@ http://51.15.236.137/hls/stream.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1,51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1,vh1 India
+#EXTINF:-1,vh1 (India)
 http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_low/index.m3u8
-#EXTINF:-1,MTV/vh1 India
-http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 #EXTINF:-1,MTV (India)
 http://103.118.76.234:1935/tvprogram/MTV/chunklist.m3u8
 #EXTINF:-1,MTV
