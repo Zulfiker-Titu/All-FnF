@@ -254,11 +254,11 @@ http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1,Kanak News
 http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
-https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -339,8 +339,6 @@ https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 http://103.118.76.234:1935/tvprogram/CBeebies/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 3
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1,Sky Net Sports 4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,World Football
@@ -817,6 +815,8 @@ https://www.djing.com/tv/live.m3u8
 https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1,DJING HITS
 https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,DJing Underground
+http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,AVA MUSIC
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1,BOX HITS
