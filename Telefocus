@@ -683,8 +683,6 @@ http://streamidvo.multitvsolution.in/DDKisan-c/playlist.m3u8
 http://playhls.media.nic.in/live/vyas/index.m3u8
 #EXTINF:-1,Wion TV
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
-#EXTINF:-1,History TV
-http://103.121.36.238:8081/live/history/chunks.m3u8
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1,VoA TV
