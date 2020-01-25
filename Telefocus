@@ -363,7 +363,9 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
-#EXTINF:-1,Flight Sports
+#EXTINF:-1,ESPN vivo
+https://origin.canaismax.com/live/espn/video.m3u8
+#EXTINF:-1,Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
@@ -389,6 +391,8 @@ http://adtv.ercdn.net/adsport3/adsport3.m3u8
 http://adtv.ercdn.net/adsport4/adsport4.m3u8
 #EXTINF:-1,BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
+#EXTINF:-1,NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 1
 http://51.158.144.124:8090/CR/5/index.m3u8
 #EXTINF:-1,KTV SPORT
@@ -495,6 +499,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO HiTS
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:-1,Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1,MBC MAX HD
@@ -717,8 +723,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1, Crime + Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-#EXTINF:-1,World Discovery
-http://198.255.23.18:2095/streams/228_.m3u8
 #EXTINF:-1,Discovery Channel
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1,Discovery Jeet
@@ -770,7 +774,7 @@ http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoom (Opt-1)
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,Zoom (Opt-2)
-http://103.121.36.238:8081/live/zoom-60/playlist.m3u8
+http://live.airteltvplus.com/hls/O7fnqtaudubVDJ9r1Ns1XA/1568453124/zoom_hi/index.m3u8
 #EXTINF:-1,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #XTINF:-1,DIL SE
@@ -779,9 +783,7 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Music India
 http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1,Music Mastii (Opt-1)
-http://103.121.36.238:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1,Music Mastii (Opt-2)
+#EXTINF:-1,Music Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Zee ETC
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
@@ -805,8 +807,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?sta
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1,Music Box
 http://212.26.132.86/hls/mb_ua.m3u8
-#EXTINF:-1,DJing Avicii
-http://www.djing.com/tv/session_avicii.m3u8
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8
 #EXTINF:-1,DJing Karaoke
 https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1,DJING HITS
