@@ -325,6 +325,8 @@ http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
@@ -332,9 +334,15 @@ http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.58.73.26/streams/114/index.m3u8
 #EXTINF:-1,Sky Net Sports 1
-http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 2
 http://103.118.76.234:1935/tvprogram/CBeebies/chunklist.m3u8
+#EXTINF:-1,Sky Net Sports 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1,Sky Net Sports 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1,Sky Net Sports 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
