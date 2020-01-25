@@ -501,6 +501,10 @@ http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO HiTS
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,HBO Family
+https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:-1,HBO Signature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1,Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1,MBC MAX HD
@@ -527,14 +531,6 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,24 HD
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1,Wowow Cinefil
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1,Huya
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,Alfajer 2
-http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1,SCI-FI MOVIES
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,WB TV
