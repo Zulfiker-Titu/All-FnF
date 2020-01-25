@@ -38,7 +38,7 @@ https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
 #EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/playlist.m3u8
 #EXTINF:-1,Gazi TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/GAZI-TV/chunklist.m3u8
 #EXTINF:-1,Gazi TV (Opt-2)
