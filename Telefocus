@@ -813,10 +813,10 @@ http://212.26.132.86/hls/mb_ua.m3u8
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1,DJing Karaoke
 https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1,DJING HITS
+#EXTINF:-1,DJing HITS
 https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1,DJing Underground
-http://www.djing.com/tv/underground.m3u8
+https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,AVA MUSIC
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1,BOX HITS
