@@ -113,12 +113,12 @@ http://42.0.6.130/hls/qW4dVSlc7A9NHG3DKd_vnw/1564902824/bongo_movies_hi/index.m3
 http://43.231.22.238:8081/BONGOTV/bongo/chunks.m3u8
 #EXTINF:-1,Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1,Jagoroni TV
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
 #EXTINF:-1,RPlus Gold
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
-#EXTINF:-1,UTV Bangla
-http://43.231.22.238:8081/UTVBD/UTV/playlist.m3u8
 #EXTINF:-1,Enterr 10 Bangla
 http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,ENTV Bangla
@@ -135,12 +135,16 @@ http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
 http://streamidvo.multitvsolution.in/BanglaTimeTV-f/playlist.m3u8
 #EXTINF:-1,News Time Bangla
 http://streamidvo.multitvsolution.in/NewsTimeBangla-c/playlist.m3u8
-#EXTINF:-1,Colors Bangla TV
-http://43.231.22.238:8081/COLORSBANGLA/colorsbangatv/chunks.m3u8
 #EXTINF:-1,Khushboo TV
 http://streamidvo.multitvsolution.in/KHUSHBOO-f/playlist.m3u8
 #EXTINF:-1,Action TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/actiontv.stream/playlist.m3u8
+#EXTINF:-1,Akash Bangla
+http://telelive.livebox.co.in/akashtvhls/akashbangla.m3u8
+#EXTINF:-1,Tele Film
+http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
+#EXTINF:-1,Sristi TV
+http://telelive.livebox.co.in/srishtitelevisionhls/live.m3u8
 #EXTINF:-1,Nan TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
 #EXTINF:-1,Bangla Channel
@@ -151,16 +155,14 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
 #EXTINF:-1,Sobuj Bangla
 http://smartstream.cf/lite/sobujbangla/index.m3u8
+#EXTINF:-1,Family TV
+http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/familytv.stream/chunks.m3u8
 #EXTINF:-1,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,Varendra TV
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1,NRB TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1,NRB Connect
-http://vod.beeiptv.com:8081/NRB/nrbconnect/playlist.m3u8
-#EXTINF:-1,Sristy TV
-http://vod.beeiptv.com:8081/sristy/sristytv/playlist.m3u8
 #EXTINF:-1,Chsnnel S
 http://cdn01.eiego.net:8081/playout/channels/playlist.m3u8
 #EXTINF:-1,Shopno
@@ -177,8 +179,6 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1,MY Cinema
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1,Mukti TV
-http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/muktitv.stream/chunks.m3u8
 #EXTINF:-1,Movie Bangla TV
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,Millennium TV
@@ -195,8 +195,6 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1,ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,AB Channel
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtv.stream/chunks.m3u8
 #EXTINF:-1,TV One UK
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1,QTV Bangla
@@ -209,18 +207,12 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1,Iqra Bangla TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1,Azan TV
-http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
 #EXTINF:-1,Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1,71 Bangla TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 #EXTINF:-1,Pan Vision TV
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
 #EXTINF:-1,Nokshi TV
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-#EXTINF:-1,Star TV Bangla
-http://43.231.22.238:8081/startvbangla/startv/chunks.m3u8
 #EXTINF:-1,Titash TV
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1,ATN Music
