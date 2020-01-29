@@ -300,7 +300,7 @@ http://103.58.73.26/streams/112/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-01)
-http://103.111.120.46/hls/sony-ten-1-hd.m3u8
+http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 #EXTINF:-1,Sony ESPN (Opt-01)
@@ -318,12 +318,8 @@ http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
-http://103.68.116.50/live/feed1006/index.m3u8
-#EXTINF:-1,Star Sports 3
-http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
-#EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://103.118.76.234:1935/ tvprogram/STAR-SPORTS-SELECT1/chunklist.m3u8
-#EXTINF:-1,Star Sports Select 1 (Opt-2)
+http://172.16.50.2:8080/hls/starsports2.m3u8
+#EXTINF:-1,Star Sports Select 1
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.58.73.26/streams/114/index.m3u8
@@ -335,6 +331,8 @@ http://103.118.76.234:1935/tvprogram/CBeebies/chunklist.m3u8
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1,Sky Net Sports 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1,World Football
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
 #EXTINF:-1,Sports Focus
@@ -381,20 +379,14 @@ http://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdbv/master570.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1,Abudhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1,Abudhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1,Abudhabi Sports 3
-http://adtv.ercdn.net/adsport3/adsport3.m3u8
-#EXTINF:-1,Abudhabi Sports 4
-http://adtv.ercdn.net/adsport4/adsport4.m3u8
 #EXTINF:-1,BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 #EXTINF:-1,NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1,BT Sports 1
-http://51.158.144.124:8090/CR/5/index.m3u8
+#EXTINF:-1,BT Sports 1 HD
+http://sg.ocache.xyz/sports/btsport1.m3u8
+#EXTINF:-1,BT Sports 2 HD
+http://sg.ocache.xyz/sports/btsport2.m3u8
 #EXTINF:-1,KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 ##EXTINF:-1,Sports Kool
@@ -417,10 +409,12 @@ https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,ATS Sports
 http://51.158.144.124:8090/CR/2/index.m3u8
+#EXTINF:-1,S2
+http://51.158.144.124:8090/CR/5/index.m3u8
 #EXTINF:-1,S3
 http://sg.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:-1,S5
-http://51.158.144.124:8090/CR/3/index.m3u8
+#EXTINF:-1,S4
+http://sg.ocache.xyz/sports/supersp4.m3u8
 #EXTINF:-1,Willow
 http://51.158.144.124:8090/CR/7/index.m3u8
 #EXTINF:-1,Fox News
