@@ -525,7 +525,7 @@ http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,iFILM
+#EXTINF:-1,ifilm
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Life Time
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
@@ -561,8 +561,6 @@ http://streamidvo.multitvsolution.in/Housefullmovies-f/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,BOLLYWOOD CLASSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Cinema TV
-https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 2
@@ -577,8 +575,6 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1,MANDARIN MOVIES 3
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
-#EXTINF:-1,SONY MOVIES CHRISTMAS
-http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,Comedy HD
 https://livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
 #EXTINF:-1,VH1
@@ -611,8 +607,6 @@ http://103.118.76.234:1935/tvprogram/SONY-HD/chunklist.m3u8
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1,Sony TV (Opt-3)
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY MAX HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,SONY MAX (Opt-2)
@@ -663,10 +657,6 @@ http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 http://live.airteltvplus.com/hls/UxLS6bC_Gi7QivozQp4CcA/1568453439/hum_sitarey_low/index.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1,Geo Entertainment
-http://stream.jeem.tv/geo/geoentertainment/playlist.m3u8
-#EXTINF:-1,Geo Kahani
-http://stream.jeem.tv/geo/geokahani_abr/playlist.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,BOOGLE BOLLYWOOD
@@ -745,6 +735,8 @@ http://45.126.83.51/dr9445/h/h16/01.m3u8
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1,The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1,Arirang World
+https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
 #EXTINF:-1,Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 #EXTINF:-1,Fashion TV 1
@@ -755,8 +747,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,WF
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1,ARY Music
-https://streamer-1.toffeelive.com/live/ary_music_720/index.m3u8
 #EXTINF:-1,9xM
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
 #EXTINF:-1,9x Jalwa
@@ -793,8 +783,6 @@ http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
 #EXTINF:-1,Hally POP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
-#EXTINF:-1,Arirang World
-https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
 #EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,Mooz Hits
