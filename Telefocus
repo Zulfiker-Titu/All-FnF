@@ -603,15 +603,15 @@ http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
 http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
-#EXTINF:-1,Colors SD (Opt-1)
+#EXTINF:-1,Colors (Opt-1)
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:-1,Colors SD (Opt-2)
+#EXTINF:-1,Colors (Opt-2)
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/SONY-HD/chunklist.m3u8
 #EXTINF:-1,Sony TV (Opt-2)
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1,Sony TV (Opt-3)
+#EXTINF:-1,Sony TV HD
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
