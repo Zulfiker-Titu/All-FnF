@@ -129,6 +129,8 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,RPlus News
 http://streamidvo.multitvsolution.in/RPlus-e/playlist.m3u8
+#EXTINF:-1,Zee 24 Ghanta
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/24ghanta/index.m3u8
 #EXTINF:-1,Action TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/actiontv.stream/playlist.m3u8
 #EXTINF:-1,Akash Bangla
@@ -399,6 +401,8 @@ http://51.158.144.124:8090/CR/1/index.m3u8
 http://51.158.144.124:8090/CR/2/index.m3u8
 #EXTINF:-1,Willow
 http://51.158.144.124:8090/CR/7/index.m3u8
+#EXTINF:-1,KiX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -437,12 +441,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1,NEWS NATION
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
-#EXTINF:-1,NEWS STATE
-https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1,RT News
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
-#EXTINF:-1,RT International
-http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1, TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,Zee News
@@ -467,28 +467,24 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,foodiee
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1,Living Foodz
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
 http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
 #EXTINF:-1,HBO HiTS
-https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1,HBO Family
-https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
+http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
 #EXTINF:-1,HBO Signature
-https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1,Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
-#EXTINF:-1,MBC Bollywood (Opt-1)
+#EXTINF:-1,MBC Bollywood
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1,MBC Bollywood (Opt-2)
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
 #EXTINF:-1,MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1,Thrill HD
@@ -505,14 +501,16 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Life Time
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
-#EXTINF:-1,24 HD
-http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,WB TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1,Fox Action Movies
-https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+http://idxcode.streamid.tv:25251/live/stream/ID/44.ts
+#EXTINF:-1,FOX Family Movies
+http://idxcode.streamid.tv:25251/live/stream/ID/45.ts
+#EXTINF:-1,FOX Movies
+http://idxcode.streamid.tv:25251/live/stream/ID/47.ts
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
@@ -521,8 +519,6 @@ https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1,KiX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:-1,& TV
 https://streamer-1.toffeelive.com/live/ntv_720/index.m3u8
 #EXTINF:-1,Zee Cinema
