@@ -321,6 +321,14 @@ http://172.16.50.2:8080/hls/starsports2.m3u8
 http://103.58.73.26/streams/113/index.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://103.58.73.26/streams/114/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
+#EXTINF:-1,Bein Sports 2
+https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
+#EXTINF:-1,Bein Sports 4
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1,Bein Sports 5
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1,Sky Net Sports 1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 2
