@@ -123,6 +123,8 @@ http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
 http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,DD Bangla
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbangla/index.m3u8
+#EXTINF:-1,Ruposhi Bangla
+http://42.0.6.130/hls/xyfUtxZ_qKfps8jjh7nVjw/1576663494/ruposhi_bangla_hi/index.m3u8
 #EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,News 18 Bangla
