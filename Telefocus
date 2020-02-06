@@ -803,6 +803,8 @@ https://www.djing.com/tv/underground.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,21
+http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:-1,51
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,VH1
