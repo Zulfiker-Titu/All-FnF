@@ -333,10 +333,10 @@ https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1,Bein Sports 5
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,Sky Net Sports 1
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1,Sky Net Sports 2
-http://103.118.76.234:1935/tvprogram/CBeebies/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 5
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 6
@@ -422,7 +422,7 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,BBC World News
-http://103.118.76.234:1935/tvprogram/BBC-WORLD/chunklist.m3u8
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNN USA
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,CNA World
@@ -484,7 +484,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
-http://103.118.76.234:1935/tvprogram/HBO/chunklist.m3u8
+http://186.103.228.50:8000/play/a03b
 #EXTINF:-1,HBO (Opt-2)
 http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
 #EXTINF:-1,HBO HiTS
