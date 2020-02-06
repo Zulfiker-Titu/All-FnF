@@ -259,8 +259,6 @@ https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1,Big Magic
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -482,7 +480,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO (Opt-1)
-http://186.103.228.50:8000/play/a03b
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.ts
 #EXTINF:-1,HBO (Opt-2)
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO HiTS
@@ -604,13 +602,11 @@ https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:-1,SONY MAX
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,Sony MAX2
-http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
+http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 #EXTINF:-1,Sony SAB (Opt-2)
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony PAL
-http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
 #EXTINF:-1,Star Plus (Opt-1)
 http://fr-c.movply.stream/hls/Star_Plus.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
@@ -639,6 +635,8 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1,Big Magic
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/bigmagic/index.m3u8
 #EXTINF:-1,Subrang TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1,Multiplex Cinema
