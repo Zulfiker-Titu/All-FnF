@@ -98,7 +98,7 @@ http://103.58.73.26/streams/115/index.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-2)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
-http://103.118.76.234:1935/tvprogram/ZEE-BANGLA/chunklist.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/zeebangla/playlist.m3u8
 #EXTINF:-1,Zee Bangla (Opt-2)
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1,Zee Bangla (Opt-3)
@@ -316,7 +316,7 @@ http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://103.58.73.26/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
-http://103.118.76.234:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
