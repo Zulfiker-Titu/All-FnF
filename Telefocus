@@ -339,6 +339,8 @@ http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1,Bein Sports 5
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1,Sky Net Sports
+http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 #EXTINF:-1,Kurd Goal
