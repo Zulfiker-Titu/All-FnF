@@ -278,7 +278,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1,AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,CN HD+
-http://103.118.76.234:1935/tvprogram/CARTOON/chunklist.m3u8
+http://103.118.76.229:1935/tvprogram/CARTOON/chunklist.m3u8
 #EXTINF:-1,CARTOON NETWORK 1
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
@@ -336,9 +336,15 @@ https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
 #EXTINF:-1,Bein Sports 3
 http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
 #EXTINF:-1,Bein Sports 4
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
 #EXTINF:-1,Bein Sports 5
-http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1,Bein Sports 8
+http://95.170.215.120/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1,Bein Sports 9
+http://95.170.215.120/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1,Bein Sports 11
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
 #EXTINF:-1,Sky Net Sports
 http://fr-c.movply.stream/hls/star-sports-select-2-hd.m3u8
 #EXTINF:-1,Sky Sports Cricket
