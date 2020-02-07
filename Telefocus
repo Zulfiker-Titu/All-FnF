@@ -257,12 +257,14 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+#EXTINF:-1,Sky Disney
+http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8
+#EXTINF:-1,ABC Kids
+https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+http://51.15.8.16:8081/lolind2/sonyyay/playlist.m3u8
 #EXTINF:-1,Disney XD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,Disney Channel
@@ -337,16 +339,10 @@ http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
 http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:-1,World Football
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
-#EXTINF:-1,Sports Focus
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
-#EXTINF:-1,Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-#EXTINF:-1,Sports Life
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
-#EXTINF:-1,Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
+#EXTINF:-1,Kurd Goal
+http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
+#EXTINF:-1,MNC Sports
+https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Dubai Sports
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1,ART Sports 1
