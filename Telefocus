@@ -124,6 +124,8 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-3 (FIFA World Cup) 
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-4 (FIFA World Cup) 
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3 
 #https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8 
 https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312 
