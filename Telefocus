@@ -110,8 +110,10 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla",News18 Bangla News 
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla",TV9 Bangla 
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Orange Bangla 
-https://cdn-4.pishow.tv/live/1499/1499_2.m3u8 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus 
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Orange Bangla 
+https://cdn-4.pishow.tv/live/1499/1499_2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus 
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus Gould 
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
