@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD 
 http://103.11.0.215:8000/play/a146/index.m3u8
 #EXTINF:-53 tvg-logo="https://images.seeklogo.com/logo-png/63/1/zee-bangla-logo-png_seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD 
-http://starshare.cx/PeH5kPWFfG/infamous7funny/23305
+#http://starshare.cx/PeH5kPWFfG/infamous7funny/23305
+https://sm-monirul.top/toffee/play/zee_bangla.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD 
 http://starshare.cx/PeH5kPWFfG/infamous7funny/23304
 #EXTINF:-54 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
@@ -124,7 +125,8 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus Gould 
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-01 (FIFA World Cup)   
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8 
+https://s1.itcnbd.live/united-sports-2/tracks-v1a1/mono.m3u8?nocache=1782578588285
+#http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-02 (FIFA World Cup) 
 https://streamvidex.qzz.io/videx/dsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-03 (FIFA World Cup) 
