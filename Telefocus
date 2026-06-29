@@ -5,6 +5,8 @@ http://103.11.0.215:8000/play/a146/index.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla 
 https://sm-monirul.top/toffee/play/zee_bangla.m3u8
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",[BD] Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD 
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/543.ts
 #EXTINF:-54 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
