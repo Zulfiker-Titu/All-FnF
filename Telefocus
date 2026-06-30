@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD 
-http://103.11.0.215:8000/play/a146/index.m3u8
+http://starhub.pro/live/farhat-3379/67897-913379/8540.ts
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD 
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla 
