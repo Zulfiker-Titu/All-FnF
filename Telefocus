@@ -19,9 +19,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #http://ubuntu.moonplex.net:8080/Somoy_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV [2] 
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 
-#EXTINF:-4 tvg-logo="
-" group-title="BANGLA",Nagorik TV
-
+#EXTINF:-4 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8 
