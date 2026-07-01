@@ -123,7 +123,7 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus Gould 
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-01 (FIFA World Cup)   
-http://180.94.28.28:8097//BTV/tracks-a1/index.fmp4.m3u8
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #https://hd2.ctghub.com/T-Sports/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-02 (FIFA World Cup) 
 https://hd2.ctghub.com/Somoy/index.m3u8
