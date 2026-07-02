@@ -34,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/DP4fPW8r/images.png" group-title="BANGLA",Star News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8 
-#EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD  
+#EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8 
@@ -59,7 +59,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8 
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV 
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8 
+#https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8 
 #EXTINF:-18 tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" group-title="BANGLA",Duronto TV 
 http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 #https://trs1.aynaott.com/duronto/index.m3u8
