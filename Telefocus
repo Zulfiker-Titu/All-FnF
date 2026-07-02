@@ -190,7 +190,7 @@ https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"group-title="SPORTS",Sony Sports-2 HD 
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"group-title="SPORTS",Sony Sports-3 HD 
-#http://103.182.170.32:8888/play/a048 http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8 
+http://103.11.0.215:8000/play/a0xq/index.m3u8
 #EXTINF:-141 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="SPORTS",Sony Sports-4 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS", Sony Sports-5 HD 
