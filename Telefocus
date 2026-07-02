@@ -175,7 +175,7 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS",Live Sports-10 
 http://198.195.239.50:8095/Fifa-1/video.m3u8 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1] 
-https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8 
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2] 
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 
