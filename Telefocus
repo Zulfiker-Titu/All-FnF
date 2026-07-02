@@ -14,10 +14,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8 
 #EXTINF:-2 tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/04/05/sangsad.jpeg" group-title="BANGLA", Sangshod TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
-#EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV [1]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8  
-#http://ubuntu.moonplex.net:8080/Somoy_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV [2] 
+#EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV 
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 
 #EXTINF:-4 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
