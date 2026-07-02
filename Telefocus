@@ -74,7 +74,8 @@ https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="mohona.bd" tvg-logo="https://mohona.tv/wp-content/uploads/2023/10/Mohona-Logo-PNG_02-1-e1696243467828.png",Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KxzVz1b7/unnamed.jpg"group-title="BANGLA",Bijoy TV 
-https://sm-monirul.top/toffee/play/bijoytv.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co.com/YT4F1ZWZ/channels4-profile-1.jpg" ,Global TV
 http://fastshare1.com:80/live/25711345/late8airline/4231.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV 
