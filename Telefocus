@@ -143,10 +143,11 @@ http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #https://hd2.ctghub.com/BTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-04 (FIFA World Cup) 
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #http://103.114.11.37:8081/FIFAPLUS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-05 (FIFA World Cup) 
-https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-06 (FIFA World Cup) 
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-07 (FIFA World Cup) 
@@ -176,10 +177,8 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="SPORTS", Live Sports-9 
 http://198.195.239.50:8095/unt-s/video.m3u8 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="SPORTS",Live Sports-10 
-http://198.195.239.50:8095/Fifa-1/video.m3u8 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1] 
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2] 
+http://198.195.239.50:8095/Fifa-1/video.m3u8  
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports 
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8 
