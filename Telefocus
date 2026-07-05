@@ -13,7 +13,8 @@ http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 #EXTINF:-54 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8 
+http://103.151.60.204:881/BTV/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8 
 #EXTINF:-2 tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/04/05/sangsad.jpeg" group-title="BANGLA", Sangshod TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV 
@@ -154,7 +155,8 @@ http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/vi
 https://tfxa4gr4uqmtt8y41hcjwghzdrqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSession=71c45dc51fa724e2ada54f44-178318310634054&wsIPSercert=2e4fdf4b9468ce3f5681e376f0c2d248&wsBindIP=2&wsserid=1168229687413827975
 #https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-08 (FIFA World Cup) 
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8
+#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-09 (FIFA World Cup) 
 http://40.160.24.55/TSN_1/index.m3u8
 #http://84.17.50.102/fox/index.m3u8
