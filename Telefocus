@@ -6,9 +6,11 @@ http://bdiptv.us:8880/rifat989/01722216989/323
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha 
 http://103.151.60.162:2121/play/a00w/index.m3u8?hls
 #http://starhub.pro/live/farhat-3379/67897-913379/8540.ts
-#EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD 
+#EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD (1)
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #http://103.157.248.140:8000/play/a093/index.m3u8
+#EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD (2)
+http://bdiptv.us:8880/rifat989/01722216989/77
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla (1)
 http://103.151.60.162:2121/play/a011/index.m3u8?hls
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla (2)
