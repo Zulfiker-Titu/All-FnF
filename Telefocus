@@ -1,8 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (2)
-http://starhub.pro/live/farhat-3379/67897-913379/8540.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha 
+http://103.151.60.162:2121/play/a00w/index.m3u8?hls
+#http://starhub.pro/live/farhat-3379/67897-913379/8540.ts
 #EXTINF:-53 tvg-logo="https://i.ibb.co.com/xRQ80tS/zee-bangla-logo-png-seeklogo-630697.png" group-title="Indian-Bangla",Zee Bangla HD 
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #http://103.157.248.140:8000/play/a093/index.m3u8
@@ -11,6 +12,8 @@ https://obiramtv.pro.bd/toffee/play/zee_bangla.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD 
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 #http://satlin.fyi:88/live/4883921909/4883921909/100697.ts
+#EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies 
+http://103.151.60.162:2121/play/a00x/index.m3u8?hls
 #EXTINF:-54 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
