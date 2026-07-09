@@ -68,7 +68,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://datamate.club:80/live/3055132053/1061806451/269858.ts
 #http://main.epgmaker.com/live/y49sz6KMQs/6115263489/559.ts 
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV 
-http://datamate.club:80/live/3055132053/1061806451/240166.ts
+http://starhub.pro/live/farhat-3379/67897-913379/390.ts
+#http://datamate.club:80/live/3055132053/1061806451/240166.ts
 #https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8 
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -125,7 +126,8 @@ http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema 
 http://103.11.0.215:8000/play/a10k/index.m3u8
 #EXTINF:-1 tvBangla="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla 
-http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+http://103.151.60.162:2121/play/a01p/index.m3u8?hls
+#http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
 #http://rgkkw.live//live/1Aoen7elp5/IgMJ60tmAa/3753.ts
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath 
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
