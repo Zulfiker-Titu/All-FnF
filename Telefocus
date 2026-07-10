@@ -49,7 +49,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8 
 #EXTINF:-8 tvg-logo="https://i.ibb.co/DP4fPW8r/images.png" group-title="BANGLA",Star News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8 
-#EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 
+#EXTINF:-7 tvg-logo="https://images.seeklogo.com/logo-png/45/1/news24-logo-png_seeklogo-455388.png" group-title="BANGLA",NEWS 24 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8 
@@ -85,7 +85,7 @@ http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 #https://trs1.aynaott.com/duronto/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv  
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9 bd 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8 
 #EXTINF:-1 group-title="Bangla" tvg-id="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",GAZI TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8 
