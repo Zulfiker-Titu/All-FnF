@@ -64,7 +64,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #http://180.94.28.28:8097//RTV/index.fmp4.m3u8 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision 
-#http://103.175.242.10:8080/banglavision/index.m3u8 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8 
+#http://103.175.242.10:8080/banglavision/index.m3u8 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8 
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV 
 http://datamate.club:80/live/3055132053/1061806451/269858.ts
 #http://main.epgmaker.com/live/y49sz6KMQs/6115263489/559.ts 
