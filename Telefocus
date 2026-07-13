@@ -10,7 +10,8 @@ http://bdiptv.us:8880/rifat989/01722216989/323
 http://103.151.60.162:2121/play/a00w/index.m3u8?hls
 #http://starhub.pro/live/farhat-3379/67897-913379/8540.ts
 #EXTINF:-53 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (1)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
+https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
+#https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8
 #http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
 #http://103.157.248.140:8000/play/a093/index.m3u8
 #EXTINF:-53 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (2)
