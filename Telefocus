@@ -184,12 +184,14 @@ http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8
 #http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #https://hd2.ctghub.com/BTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-04 (FIFA World Cup) 
-https://live.inplyr.com/room/494201.m3u8
+https://trophystream.com/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#https://live.inplyr.com/room/494201.m3u8
 #https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #http://103.114.11.37:8081/FIFAPLUS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-05 (FIFA World Cup) 
-https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
+#https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-06 (FIFA World Cup) 
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-07 (FIFA World Cup) 
