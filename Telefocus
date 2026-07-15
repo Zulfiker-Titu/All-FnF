@@ -184,7 +184,8 @@ http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8
 #http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 #https://hd2.ctghub.com/BTV/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-04 (FIFA World Cup) 
-http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/2077787
+http://delta.cloudf-nettv.xyz:80//live/mehj9l0sub/qh1u5prkk0/2018298.ts
+#http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/2077787
 #https://trophystream.com/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #https://live.inplyr.com/room/494201.m3u8
 #https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
@@ -202,7 +203,8 @@ http://145.239.5.177/557a/index.m3u8
 http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-09 (FIFA World Cup) 
-http://40.160.24.55/TSN_1/index.m3u8
+http://delta.cloudf-nettv.xyz:80//live/mehj9l0sub/qh1u5prkk0/2018297.ts
+#http://40.160.24.55/TSN_1/index.m3u8
 #http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-10 (FIFA World Cup) 
 http://206.212.244.63/65/index.m3u8
