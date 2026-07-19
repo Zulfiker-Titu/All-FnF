@@ -211,7 +211,8 @@ http://103.165.93.31:8095/unt-s/video.m3u8
 #http://206.212.244.63/65/index.m3u8
 #http://198.195.239.50:8095/ptv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-11 (FIFA World Cup) 
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+http://103.155.18.186:8000/play/a126/index.m3u8
+#https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #http://103.151.60.162:2121/play/a013/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="SPORTS", Live Sports-12 (FIFA World Cup) 
 #http://103.89.248.22:8082/PTV/index.fmp4.m3u8?token=03143ffe5662575bea77b0baae2d6a5c5718c02d-bd98acf035bdcefa5ea3f86f4f79ddac-1784410505-1784399705
