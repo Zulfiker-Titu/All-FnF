@@ -42,7 +42,8 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 #EXTINF:-4 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png",T Sports  
-http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
+#http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8
 #http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8 
