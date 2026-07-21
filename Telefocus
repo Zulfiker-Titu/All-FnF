@@ -6,6 +6,8 @@ http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 #http://103.11.0.215:8000/play/a146/index.m3u8
 #http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (2)
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://myco-channels.nurmd2006-official.workers.dev/Star_Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (3)
 http://bdiptv.us:8880/rifat989/01722216989/323
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha 
 http://103.151.60.162:2121/play/a00w/index.m3u8?hls
@@ -29,7 +31,8 @@ https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 #http://satlin.fyi:88/live/4883921909/4883921909/100697.ts
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies 
-http://103.151.60.162:2121/play/a00x/index.m3u8?hls
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://myco-channels.nurmd2006-official.workers.dev/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#http://103.151.60.162:2121/play/a00x/index.m3u8?hls
 #EXTINF:-54 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
@@ -38,7 +41,8 @@ http://103.151.60.204:881/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-2 tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/04/05/sangsad.jpeg" group-title="BANGLA", Sangshod TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV 
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 
+https://bdixserver.tvhunter.top/ant1003/tracks-v1a1/index.m3u8
+#http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 
 #EXTINF:-4 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png",T Sports  
