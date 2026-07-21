@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (1)
-https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
+http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+#https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 #https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
 #http://103.11.0.215:8000/play/a146/index.m3u8
 #http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8 
