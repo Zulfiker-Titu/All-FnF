@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (1)
 http://103.165.93.31:8095/starJalsha/index.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (2)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:C0:79:B7&stream=945575&extension=ts&play_token=HnDKUO1VPh
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (3)
 http://bdiptv.us:8880/rifat989/01722216989/323
 #EXTINF:-53 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (1)
