@@ -1,9 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (1)
-http://103.89.248.14:8082/Star_jalsha/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e3ecc8bc827e0d1a2defb8a206c6bbb1b8280212-a0571997d7965b51ea8b4090347eab82-1787944683-1787933883
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (2)
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:C0:79:B7&stream=945575&extension=ts&play_token=HnDKUO1VPh
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD (3)
 http://bdiptv.us:8880/rifat989/01722216989/323
 #EXTINF:-53 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (1)
 http://103.89.248.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4be45979732f90f01544416297ee3073716d9649-b13f1621d034395a20df0e0ae7af69c4-1787944920-1787934120
