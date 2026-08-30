@@ -28,7 +28,8 @@ https://stream.ottplus.live/live/btv/index.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV Chottogram
 https://stream.ottplus.live/live/btv_ctg/index.m3u8
 #EXTINF:-2 tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/04/05/sangsad.jpeg" group-title="BANGLA", Sangshod TV
-https://stream.ottplus.live/live/sangsad_tv/index.m3u8
+https://stream.ottplus.live/live/sangsad_tv/index.m3u8 
+
 #EXTINF:-4 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a43d98c39f21705262488.jpg" group-title="BANGLA",SOMOY TV 
 http://103.165.93.31:8095/somoyTv/index.m3u8
 #EXTINF:-4 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
@@ -86,7 +87,7 @@ http://thesky.live:80/live/Vivek6616/Vivek6166/45619.ts
 #http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 #https://trs1.aynaott.com/duronto/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv  
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8 
+ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8 
 #EXTINF:-1 group-title="Bangla" tvg-id="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",GAZI TV
