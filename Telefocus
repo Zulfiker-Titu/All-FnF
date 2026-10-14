@@ -244,7 +244,7 @@ http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2] 
 #http://41.205.93.154/STARSPORTS1/index.m3u8 https://starsportshindiii.pages.dev/index.m3u8 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2 
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8 
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD 
 #https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8 
