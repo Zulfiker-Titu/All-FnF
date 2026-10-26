@@ -171,9 +171,9 @@ https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus Gould 
 https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
 #EXTINF:-1 tvg-logo="https://sc-images-prod.s3.eu-central-1.amazonaws.com/logos/3bd2be53-c15c-4d69-9b31-372297a56b06_logo.jpg" group-title="SPORTS", tapmad Live (1) 
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/level_2.m3u8
 #EXTINF:-1 tvg-logo="https://sc-images-prod.s3.eu-central-1.amazonaws.com/logos/3bd2be53-c15c-4d69-9b31-372297a56b06_logo.jpg" group-title="SPORTS", tapmad Live (2) 
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/singaporeMR6_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 
 http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2] 
