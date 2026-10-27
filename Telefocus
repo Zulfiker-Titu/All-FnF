@@ -175,10 +175,10 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 #EXTINF:-1 tvg-logo="https://sc-images-prod.s3.eu-central-1.amazonaws.com/logos/3bd2be53-c15c-4d69-9b31-372297a56b06_logo.jpg" group-title="SPORTS", tapmad Live (2) 
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/singaporeMR6_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 
-http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8 
+http://bdiptv.us:8880//live/rifat989/01722216989/43.ts 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2] 
-#http://41.205.93.154/STARSPORTS1/index.m3u8 https://starsportshindiii.pages.dev/index.m3u8 
-#EXTINF:-1 group-title="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2 
+http://41.205.93.154/STARSPORTS1/index.m3u8  
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="SPORTS", Sony Sports-1 HD 
 #https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
