@@ -85,8 +85,8 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/channel-i-logo-png_seeklogo-427745.png" group-title="BANGLA",Channel I 
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png" group-title="BANGLA",Deepto TV 
-https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
-#https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8  
+#https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv//index.m3u8  
 #EXTINF:-1 tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" group-title="BANGLA",Duronto TV 
 http://dvltv.cc:80/play/uxN8_xYmP3o_GFqK372_h23M1OlrCmj-1twv1Nj65lg
 #https://trs1.aynaott.com/duronto/index.m3u8
