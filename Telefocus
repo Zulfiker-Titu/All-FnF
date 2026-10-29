@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://images.dwncdn.net/images/t_app-icon-m/p/d2ef1efc-8b3b-4646-80c2-7bc39155a106/3907200086/star-jalsha-tv-hd-serial-info-icon.webp" group-title="Indian-Bangla",Star Jalsha HD (1)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://images.dwncdn.net/images/t_app-icon-m/p/d2ef1efc-8b3b-4646-80c2-7bc39155a106/3907200086/star-jalsha-tv-hd-serial-info-icon.webp" group-title="Indian-Bangla",Star Jalsha HD (2)
-http://103.89.248.22:8082/Star_jalsha/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=d246aae56e676fb527c36c0ed439c6d509a1053e-cc6e47d68fd752c847ea134de9f9db3c-1793112001-1793101201
+http://103.89.248.14:8082/Star_jalsha/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=063c637812ab4d4132b75b3d2ffbb8626d2cc732-f0573a2646a9bb5682cc64a886dd2867-1793284255-1793273455
 #http://bdiptv.us:8880/rifat989/01722216989/323
 #EXTINF:-1 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (1)
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
