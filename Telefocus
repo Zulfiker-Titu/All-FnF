@@ -10,10 +10,10 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 http://bdiptv.us:8880/rifat989/01722216989/77
 #EXTINF:-1 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="Indian-Bangla",Zee Bangla HD (3)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD (1)
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Indian-Bangla",Jalsha Movies (1)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #http://198.195.239.50:8095/jalshaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD (2)
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Indian-Bangla",Jalsha Movies (2)
 http://bdiptv.us:8880/rifat989/01722216989/6516
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfctHMw3/channels4-profile.jpg" group-title="Indian-Bangla",Zee Bangla Sonar
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
