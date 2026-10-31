@@ -110,7 +110,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YT4F1ZWZ/channels4-profile-1.jpg" group-title="BANGLA" ,Global TV
 http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="BANGLA",Nexus TV 
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 #EXTINF:-1 tvg-logo=”https://i.ibb.co.com/3m8xKFXM/images-4.jpg”group-title="BANGLA", Ekhon TV 
@@ -122,7 +122,7 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #https://mtlivestream.com/hls/asian/ytlive/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/40/1/anondo-tv-logo-png_seeklogo-407012.png" group-title="BANGLA",Ananda TV 
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Channel_S_Bangladesh_Logo.png" group-title="BANGLA" ,CHANNEL S BD
+#EXTINF:-1 tvg-logo="BANGLA" tvg-logo="https://hotjobs.bdjobs.com/jobs/channels/header7a.png" group-title="BANGLA" ,CHANNEL S BD
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z61fP6f5/images-5.jpg" ,CHANNEL S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
