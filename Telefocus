@@ -137,7 +137,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-53 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bangla-plus.png" group-title="Indian-Bangla",BANGLA+ HD 
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla HD
-http://live.balajibroadband.com:3500/render.m3u8?auth=WOvMbKBzmmns4GtI40Ab3YDqhU20RVW_iGDDPy_exwczyN3nsIYvrSssjuseJeo5tDcwOwdsRnojgeS09z802uKCsQUKW03M2-kuZ047uuRNUSM1aSr96qc9bWeeZne3qONUyhJUJNX_jhmHauYdNGmd04bsXnXaYuYO57EqepMIoX4Etle-u7SG1ScQfskIY4PaWChn9RY-mKldg6izVgdQeEywmLcgIU-8D9TjHdoWumg5XuJ3TRuswubzh6GVqI-90I6F0JkmwKLN4hnHtcGrwAG_2n3saieN9l3tr9xGplsCYF2mT886d48lO2ouODqTi_so-nIMw9r3Vxm-_xXFcdNwD4wY9Qzg33AvBaqNT8k00zfXk0y1CU_E1tOT6GwUPJ9t4tIY7iY6lnkxEne1B6MdAVr33vpb8dP645C3oPz4cPfQrNoUkg==&channel_key_id=756
+http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema 
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kGjkSXFXCXCwi8ZZONEOJRK6-hOlOwjKdBJ-LNsE9L4DiGFdfm6w2gVznnPSRttwxziY6EeZtmU=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sun Bangla 
