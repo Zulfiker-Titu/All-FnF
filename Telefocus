@@ -141,7 +141,7 @@ http://103.151.60.162:2122/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema 
 https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 #http://103.11.0.215:8000/play/a10k/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kGjkSXFXCXCwi8ZZONEOJRK6-hOlOwjKdBJ-LNsE9L4DiGFdfm6w2gVznnPSRttwxziY6EeZtmU=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sun Bangla 
 http://103.151.60.162:2122/play/a01p/index.m3u8
 #http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
 #http://rgkkw.live//live/1Aoen7elp5/IgMJ60tmAa/3753.ts
