@@ -174,15 +174,12 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png" group-title="Indian-Bangla",Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla", R Plus
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jHUhb1QejiTl3NPJucn-uKFwwJevnwfnKB5jFUbKivpYm5aBHERsHLwRrwZlX9bzAtQHDxq0Mj4=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla", R Plus News 
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://sc-images-prod.s3.eu-central-1.amazonaws.com/logos/3bd2be53-c15c-4d69-9b31-372297a56b06_logo.jpg" group-title="SPORTS", tapmad Live (1) 
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://sc-images-prod.s3.eu-central-1.amazonaws.com/logos/3bd2be53-c15c-4d69-9b31-372297a56b06_logo.jpg" group-title="SPORTS", tapmad Live (2) 
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/ProdPK_export_1080.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png"group-title="SPORTS",espn
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/espn-logo-png_seeklogo-283139.png"group-title="SPORTS",espn
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png"group-title="SPORTS",espn 2
