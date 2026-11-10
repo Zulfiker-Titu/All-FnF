@@ -30,7 +30,8 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1920&q=75" group-title="BANGLA", Sangshod TV
 https://stream.ottplus.live/live/sangsad_tv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="BANGLA",SOMOY TV 
-https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8
+#https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.bikeindex.org/uploads/Us/2749478/medium_logo-xoilacz-tv.jpg" group-title="Sports",xoilac-tv 1
@@ -196,8 +197,8 @@ https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-7-logo-png_seeklogo-522718.png"group-title="SPORTS",espn 7
 https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 #EXTINF:-1 tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png" group-title="SPORTS",Star Sports 1 
-http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/852142.ts
-#http://bdiptv.us:8880//live/rifat989/01722216989/43.ts 
+#http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/852142.ts
+http://bdiptv.us:8880//live/rifat989/01722216989/43.ts 
 #EXTINF:-1 tvg-logo="https://lamhas.com/wp-content/uploads/2022/06/3-1.png" group-title="SPORTS",Star Sports-2 
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png"group-title="SPORTS",Sony Sports-1 HD 
@@ -221,8 +222,8 @@ http://103.135.253.32:8080/TEN-5/index.m3u8
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports 
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/441307.ts
-#http://bdiptv.us:8880//live/rifat989/01722216989/1278.ts
+#http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/441307.ts
+http://bdiptv.us:8880//live/rifat989/01722216989/1278.ts
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="SPORTS", A SPORTS 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket 
