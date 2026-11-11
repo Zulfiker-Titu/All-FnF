@@ -54,8 +54,8 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
 #https://stream.ottplus.live/live/ekattor_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="BANGLA",Channel 1
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://freekaj.com/assets/images/stock/image/2024/01/14/65a430f9c80251705259257.jpg" group-title="BANGLA",Channel 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="BANGLA",INDEPENDENT TV 
@@ -66,7 +66,6 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagojobs.com/media/company_logos/2024December/6880-star-news-20241215144514.png" group-title="BANGLA",Star News 
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 #http://103.135.253.32:8080/Star-News/index.m3u8
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/news24-logo-png_seeklogo-455388.png" group-title="BANGLA",NEWS 24 
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News 
