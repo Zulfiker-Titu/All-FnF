@@ -156,7 +156,7 @@ http://live.balajibroadband.com:3500/live/756.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema 
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kGjkSXFXCXCwi8ZZONEOJRK6-hOlOwjKdBJ-LNsE9L4DiGFdfm6w2gVznnPSRttwxziY6EeZtmU=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sun Bangla 
-http://103.135.253.32:8080/SUN-BANGLA/index.m3u8
+https://s3.itcnbd.live/server-12/stream/MTc.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sony Aath 
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
