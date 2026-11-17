@@ -30,7 +30,8 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1920&q=75" group-title="BANGLA", Sangshod TV
 https://stream.ottplus.live/live/sangsad_tv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="BANGLA",SOMOY TV 
-https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8
+http://116.204.149.16/somoytv/index.m3u8
+#https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8
 #https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://salauddinsalim.com/wp-content/uploads/2025/05/NAGORIK-TV-200x200.png" group-title="BANGLA",Nagorik TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
