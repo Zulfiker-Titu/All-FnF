@@ -164,7 +164,8 @@ http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kGjkSXFXCXCwi8ZZONEOJRK6-hOlOwjKdBJ-LNsE9L4DiGFdfm6w2gVznnPSRttwxziY6EeZtmU=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sun Bangla 
 https://s3.itcnbd.live/server-12/stream/MTc.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s160-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sony Aath 
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+https://s3.itcnbd.live/server-5/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0zMDY.m3u8
+#https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath 
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8 
