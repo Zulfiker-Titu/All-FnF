@@ -49,7 +49,8 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 http://103.16.24.4:8083/14.m3u8
 #http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="Sports",T Sports (2)
-http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
+https://s3.itcnbd.live/server-12/stream/MQ.m3u8
+#http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="Sports",T Sports (3)
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
